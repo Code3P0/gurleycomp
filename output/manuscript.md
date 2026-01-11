@@ -55,7 +55,6 @@
 
 - Internet Investors: Beware of the Proxy Valuation (1998)
 - When It Comes to Pricing Software, the Greener Grass Is Hard to Find (2001)
-- More IPO News, Ancestry.com Files S-1 (2009)
 - Google’s Acquires ITA: Will Deeper Vertical Integration Lead to Higher Revenues? (2010)
 - On Google, Growth, Pricing Power, and Valuation Multiples (2010)
 - Silicon Valley’s IPO Anxiety (2010)
@@ -71,9 +70,6 @@
 - A Return to Demand-driven Capital (2000)
 - Like it or Not, Every Startup is Now Global (2000)
 - The Smartest Price War Ever (2001)
-- DVD Glut (2005)
-- Techdirt: The Fake Broadband Price War (2006)
-- BAILOUT what? (2008)
 - Google Redefines Disruption: The “Less Than Free” Business Model (2009)
 - Conversion: The Most Important Internet Metric of All (Revisited) (2013)
 
@@ -92,14 +88,11 @@
 - All Things IP: the Future of Communications in America (2004)
 - Entrepreneurialism and Protectionism Don’t Mix (2004)
 - Texas Sets Key Precedent for Other States in Refusing to Ban Municipal Wireless (2005)
-- Pro-Broadband Muni Issue Goes National (2005)
-- Wifi Nation… (2005)
 - MMOs (MMORPGs) Continue to Rock MMOS (MMORPGS) CONTINUE TO ROCK (2006)
 - Want To Know More About the Future of Internet TV?: Let’s Look to Korea (2009)
 - When It Comes to Television Content, Affiliate Fees Make the World Go ‘Round (2010)
 - You Don’t Have to Tweet to Twitter FREQUENT COMPARISONS TO FACEBOOK LEAVE MANY CONFUSED ABOUT THE TRUE VALUE OF TWITTER. (2011)
 - …Be Like Dave (2015)
-- The Ezra Klein Show: VC Bill Gurley on Transforming Health Care (2017)
 - “Customer First” Healthcare (2017)
 
 ## Part V: Leadership and Governance
@@ -112,18 +105,13 @@
 - A Real Time Free Vs Fee Example: Rosetta Stone vs. LiveMocha (2009)
 - What Is Really Happening to the Venture Capital Industry? (2009)
 - Virtual Goods, Accounting, and the Power of the “Rental” Model (2010)
-- Steve Job’s Remarkable Value Creation (2011)
 - Grubhub and Seamless: Effecting The Elusive Private-Private Merger (2013)
 - Stitch Fix: Reinventing Retail Through Personalization (2013)
 - Disrupting Finance From Above: Wealthfront (2014)
-- Welcoming Jason Kilar, Richard Tom and the Vessel team to the Benchmark family (2014)
-- Meet Benchmark’s New Partner: Eric Vishria (2014)
 - Can you take me Higher? To a place with golden streets” — Creed, Higher (2015)
 - In Defense of the Deck (2015)
 - FINANCING MARKET JUST BECAME DANGEROUS…FOR ALL INVOLVED (2016)
-- Benchmark’s New General Partner Sarah Tavel (2017)
 - Thinking of Home: Dickinson, Texas (2017)
-- Benchmark’s Newest General Partner Chetan Puttagunta (2018)
 
 ## Part VI: Lessons from the Wreckage
 
@@ -138,7 +126,7 @@
 
 ---
 
-<!-- PAGE BREAK -->
+---
 
 # Part I: Marketplace Mechanics
 
@@ -433,8 +421,6 @@ automate the connections between their customers and themselves.
 A HUGE OPPORTUNITY
 
 
-
-
 The attached slide will look familiar to readers in Silicon Valley. It appears to be a disruptive, up-
 and-to-the-right graph that we normally associate with break-out technology companies. This
 slide, however, maps the rise of the Yellow Pages industry in North America from 1920 to 2007.
@@ -448,11 +434,7 @@ the source.
  erode. Why? Newspapers, magazines, local radio, and Yellow Pages represent about 80% of this
 
 
-
-
        spend, and the rise of the Internet is unquestionably undermining the core structure
-
-
 
 
 of these industries. Since 2007, Yellow Pages revenues have fallen in half in five years, after
@@ -471,8 +453,6 @@ them. What’s the big deal?
 AN ONLINE AWAKENING
 
 
-
-
                            Two things then happened. The first is the critical success of Yelp.
 Local merchants were suddenly profiled in an environment where the consumer, not the business
 owner, controlled the copy and the narrative. At first, it was easy to disregard this thing called
@@ -483,10 +463,6 @@ Facebook had reached 71% penetration of all 221mm U.S. Internet users. Regardles
 when the small business owner now went home, his or her family was constantly on the Internet –
 playing games, doing research, connecting with friends. The Internet’s pervasiveness could no
 longer be denied.
-
-
-
-
 
 
                        Today, the small business owner’s attitude has shifted from denial to
@@ -501,8 +477,6 @@ owners embrace the Internet, the local Internet is firing on all cylinders. Not 
 segment that was once considered a “do not enter” zone for venture capitalists.
 
 THE SMARTPHONE AS A CATALYST
-
-
 
 
                                   If the decay of the Yellow Pages was a catalyst for the local
@@ -525,12 +499,6 @@ require new distribution techniques, and in such a “jump ball” scenario the 
 evaporates. One could argue the incumbents are even at a disadvantage as they are less likely to
 have the cutting edge technical employees who understand the new platforms.
 Changing the Game: Going Deep
-
-
-
-
-
-
 
 
 But there is an even greater limitation on the power of incumbents than their discomfort with new
@@ -723,12 +691,6 @@ outlines ten different ways to judge the potential effectiveness of an online ma
 be surprised how well DogVacay checks out against this list:
 
 
-
-
-
-
-
-
 After taking a detailed look at the crowd-sourced dog care market; we became quite excited about
 the opportunity at DogVacay. In addition to our analysis, we had the added benefit that the
 company had been live since March, and we were able to confirm our analysis by witnessing
@@ -752,8 +714,6 @@ Longreads+Instapaper is basically “time-shifting” for the written word. I am
 Several others have posted their favorite longreads of the year (you can find them
 here). Unfortunately, I did not keep track as much as I should have. Next year I aim to do better.
 With that caveat, here are a few of my favorite long-form articles from last year.
-
-
 
 
                           A BASKETBALL FAIRY TALE IN MIDDLE AMERICA, BY
@@ -839,8 +799,6 @@ of the revenue for the company that is running the service. Examples include “
 associated with corruption in politics).
 
 
-
-
 Many Internet marketplaces also have a rake or vig. The percentage rake is the amount that the
 marketplace charges as a percentage of GMS (gross merchandise sales), which typically represents
 net revenues for the marketplace. As an example, eBay’s 2011 marketplace revenues were
@@ -877,8 +835,6 @@ business (North America Third Party Revenue is down in Q4 both YOY and QOQ). Wit
 of approximately 38% (and this is “after” asking the merchant to underwrite a 50% discount to the
 consumer) the recovery from each transaction for the supplier is only 30%, representing an
 “effective” rake of 70%.
-
-
 
 
 High volume combined with a modest rake is the perfect formula for a true organic marketplace
@@ -939,12 +895,6 @@ itself? Or is it merely a revenue extraction exercise? And if so, is there a ris
 could be a net-negative from a strategic standpoint?
 
 
-
-
-
-
-
-
 Let’s start with Facebook. For the first several years, Facebook’s application platform was a
 smashing success. The distribution power of their pervasive platform proved a remarkable vehicle
 for many companies; particularly games companies. The platform was so successful so quickly
@@ -996,8 +946,6 @@ Amazon read the terms of service of the iOS platform, and came to grips with the
 30% rake, they saw an instant road-block – a show-stopper to their potential success on that
 platform. It was very hard to imagine their business model and Apple’s business model coexisting,
 and so they eventually punted on a full commitment to iOS.
-
-
 
 
 The bottom line is they could have been amazing partners. If Apple had a lower rake, or even had
@@ -1090,8 +1038,6 @@ and typical. In my view, there is a critical error in both of these two core ass
    unprecedented technological revolution.” (article via @trengriffin)
 
 
-
-
    The tweet included here from Aaron Levie highlights the key point we are making – Uber’s
    potential market is far different from the previous car-for-hire market, precisely because the
    numerous improvements with respect to the traditional model lead to a greatly enhanced total
@@ -1138,12 +1084,6 @@ and typical. In my view, there is a critical error in both of these two core ass
    have the numbers he would need to calculate Uber’s specific price elasticity, let me assure you
    that it is high. This only makes sense – lowering the price of car-for-hire transportation will
    increase the usage.
-
-
-
-
-
-
 
 
    Most taxi services in the majority of U.S. cities have a fixed supply through some type of medallion
@@ -1240,7 +1180,6 @@ and typical. In my view, there is a critical error in both of these two core ass
    market for annual car ownership costs. How much of that market Uber can take is an interesting
 
 
-
    question to ponder (which we will), but the fact that 25% of that market is in the U.S. is a huge
    advantage for the company.
    Driving home the point – Uber’s potential market is far different from the previous for-hire market
@@ -1283,12 +1222,6 @@ and typical. In my view, there is a critical error in both of these two core ass
    mentioned.
 
 
-
-
-
-
-
-
 Uber also enjoys economies of scale that span across city borders. Many people who travel have
 experienced Uber for the first time in another city. When the company enters a new city they have
 the stored data for users who have opened the application in that area to see if coverage is available.
@@ -1304,8 +1237,6 @@ American Express users will get 2X loyalty points on all Uber rides. Additionall
 Rewards users can use those points to pay for rides directly in the application. It is also easy to
 imagine a future where Uber drivers receive discounts on things like leases, gasoline and car repair.
 Scale clearly matters for these types of opportunities.
-
-
 
 
 UNDISCOVERED CLUES
@@ -1352,12 +1283,6 @@ This represents a potential opportunity of $150-$750 billion depending on how ag
 believes these services can succeed as a car alternative.
 
 
-
-
-
-
-
-
 Combining these two opportunities, you end up with a potential range of new TAM estimates from
 $450 billion all the way up to $1.3 trillion. Now we calculate the market share Uber would need
 against these new TAM estimates to arrive at an opportunity that is 25X that of Damadoran’s
@@ -1369,8 +1294,6 @@ more recent post). In the case I think is more likely (Scenario G), the expanded
 is 6X and you see a 10% impact on global car ownership, Uber’s market share need only be in the
 20% range. Once again, the fact that the U.S. represents 25% of the car-ownership market adds
 more likelihood to Uber’s ability to capture that opportunity.
-
-
 
 
 As discussed up front, the key objective of this exercise is to present a reasonable and plausible
@@ -1396,8 +1319,6 @@ invisible hand, is able to elegantly match supply and demand, without the “sch
 that are the norm in most every other industry.
 
 
-
-
 Some have raised questions and concerns about the “gig” economy and the rise of these new
 independent and autonomous work types. Detractors frequently highlight that these work types
 lack some of the structured benefits that are frequently attached to traditional full time job
@@ -1411,12 +1332,6 @@ of shift or schedule. It is unheard of for an employee to say “I want to work 
 the next, and then take 2 weeks off.” This autonomy and freedom of the “gig” work type, which is
 highly valued by millions and millions of people, would be impossible to implement for the
 overwhelming majority of companies.
-
-
-
-
-
-
 
 
     In November of 2014, the Morgan Stanley sell-side research team that focuses on the auto industry,
@@ -1446,12 +1361,6 @@ overwhelming majority of companies.
     school.
 
 
-
-
-
-
-
-
     In January of 2015, Uber partnered with Alan Krueger, a professor at Princeton University, to
     conduct the first comprehensive analysis of Uber’s driver-partners, based on both survey data and
     anonymized, aggregated administrative data. The results from this survey mirrored many of the
@@ -1472,12 +1381,6 @@ overwhelming majority of companies.
 •   When asked directly, “If both were available to you, at this point in your life, would you rather
     have a steady 9 to 5 job with some benefits and a set salary or a job where you choose your own
     schedule and be your own boss?” 73 percent chose the latter.
-
-
-
-
-
-
 
 
     In October of 2016, McKinsey and Company (working with Uber) published a detailed research
@@ -1511,12 +1414,6 @@ overwhelming majority of companies.
     Uber is for this single mother. And the impact to her life is real and meaningful.
 
 
-
-
-
-
-
-
 Another reason Uber is such a great supplemental work type is that peaks in usage elegantly
 overlap with time windows that are convenient for traditional 9-5pm, Monday-Friday full-time
 workers. Friday and Saturday nights are simultaneously the consistent weekly peaks of (a) demand
@@ -1528,8 +1425,6 @@ weekends are when people searching for supplemental income are free from the pri
 occupation and can make the voluntary decision to earn more money. I have met drivers in Tahoe
 that came to town with their family (on vacation) and are earning while others are hiking or skiing.
 The matching of this excess supply with excess demand is both elegant and fortunate.
-
-
 
 
 There is another incredible driver-partner benefit of the Uber system that is radically different from
@@ -1600,8 +1495,6 @@ people take to the road in the first place. You would also potentially eliminate
 supplemental work offering.
 
 
-
-
 In just a few short years, over 3 million driver-partners have joined the Uber platform. To put that
 in perspective, Walmart has grown to 2.3 million employees over 55 years. I think it’s safe to say
 that over the past five years, no industry has created more new jobs and new income opportunities
@@ -1627,8 +1520,6 @@ of these people are voluntarily making poor life decisions for themselves.
 February 27, 2019: (*) Benchmark is/was an investor in companies labeled with the asterisk.
 
 
-
-
 In 1776, Adam Smith released his magnum opus, An Inquiry into the Nature and Causes of the
 Wealth of Nations, in which he outlined his fundamental economic theories. Front and center in
 the book — in fact in Book 1, Chapter 1 — is his realization of the productivity improvements
@@ -1642,12 +1533,6 @@ great quantity, or, what comes to the same thing, for the price of a great quant
 supplies them abundantly with what they have occasion for, and they accommodate him as amply
 with what he has occasion for, and a general plenty diffuses itself through all the different ranks
 of society.
-
-
-
-
-
-
 
 
 Smith identified that when men and women specialize their skills, and also importantly “trade”
@@ -1676,11 +1561,7 @@ they unlock economic wealth that otherwise would not exist. In other words, they
 “money out of nowhere.”
 
 
-
-
     EXCHANGE OF GOODS MARKETPLACES
-
-
 
 
                                                       Any discussion of Internet marketplaces begins
@@ -1726,8 +1607,6 @@ they unlock economic wealth that otherwise would not exist. In other words, they
 SHARING ECONOMY MARKETPLACES
 
 
-
-
                                                     With the launch of Airbnb in 2008 and Uber (*) in
 2009, these two companies established a new category of marketplaces known as the “sharing
 economy.” Homes and automobiles are the two most expensive items that people own, and in
@@ -1768,10 +1647,7 @@ since the company started, Rover has already paid out of half a billion dollars 
 participate on the platform.
 
 
-
     EXCHANGE OF LABOR MARKETPLACES
-
-
 
 
                                                      While not as well known as the goods exchanges
@@ -1847,7 +1723,6 @@ participate on the platform.
     Internet. Here are an example of two such companies that we have funded in the past few years.
 
 
-
                                                       The New York Times describes Hipcamp as “The
     Sharing Economy Visits the Backcountry.” Hipcamp(*) was founded in 2013 by Alyssa
     Ravasio as an engine to search across the dozens and dozens of State and National park websites
@@ -1859,8 +1734,6 @@ participate on the platform.
     landowner, here is a way to create “money out of nowhere” with very little capital expenditures.
     And if you are a camper, what could be better than to camp at a unique, bespoke campsite in your
     favorite location.
-
-
 
 
                                                    Instawork(*) is an on-demand staffing app for gig
@@ -1933,8 +1806,7 @@ participate on the platform.
 ---
 
 
-
-<!-- PAGE BREAK -->
+---
 
 # Part II: The Valuation Question
 
@@ -2100,24 +1972,11 @@ So what’s the best model? Perhaps it’s a blend
 
 ---
 
-# More IPO News, Ancestry.com Files S-1
-
-August 4, 2009: For those of you that get the subscription VentureWire emails, you may have
-noticed the subtitle today “Recent buyout-backed IPO activity is a positive sign, but don’t expect
-any VC-funded IPOs anytime soon.” It also included the equally pessimistic, “…but doesn’t expect
-any venture-backed companies to price before Thanksgiving.”
-For the life of me, I cannot figure out why the press is so feverishly pessimistic about the IPO
-market. In 2009, no major company IPO filings have been pulled. Moreover, all five compa
-
----
-
 # Google’s Acquires ITA: Will Deeper Vertical Integration Lead to Higher Revenues?
 
 July 8, 2010: “It’s funny how fallin feels like flyin,
 for a little while…”
 – Jeff Bridges, Crazy Heart Soundtrack
-
-
 
 
 On July 1st, Google announced its intention to acquire ITA Software. ITA owns a primarily B2B
@@ -2131,8 +1990,6 @@ many independent incumbents, like Priceline and Expedia, who are material custom
 have large established businesses.
 
 
-
-
 There are two reasons mentioned for why Google feels compelled to dive deeper into verticals.
 The most straightforward explanation is competitive pressure. Following its own acquisition of
 Farecast, Microsoft has subsequently launched Bing Travel, a much richer travel search product
@@ -2142,10 +1999,6 @@ visit. This argument suggests that CPA (cost-per-action) is a fundamental improv
 Google’s current business model, CPC (cost-per-click). The competition argument seems obvious
 and accurate. However, it is not at all clear that going deeper in verticals will raise Google’s
 revenues. In fact, there are several scenarios where they could actually go down.
-
-
-
-
 
 
 Let’s first address the easy part – competition. Bing buys Farecast and Google needs to respond.
@@ -2190,7 +2043,6 @@ you ever heard of them? It gets even better. Many believe that Google uses a low
 score on these “middle-men” to force them to pay a higher fee for a single CPC, thus getting an
 
 
-
 even higher price than previously discussed. That’s right, for certain CPC buyers, Google has a
 mechanism for extracting an even higher price, even if the buyer is already the high bidder!
 As Google moves past its “10 blue links” model and connects directly to airlines, hoteliers, etc, it
@@ -2213,8 +2065,6 @@ could assume the general average for all affiliate fees or similar distribution 
 around 10%.
 
 
-
-
 Now, ask someone in your marketing department how much they are willing to pay to “acquire a
 customer.” While I don’t pretend to support this logic, the Lifetime Value of the Customer (LTV)
 model depicted herein mesmerizes many marketing managers. Using this simplistic but highly
@@ -2230,8 +2080,6 @@ much larger denominator, known as LTV. With LTV, ad buyers are easily willing to
 # On Google, Growth, Pricing Power, and Valuation Multiples
 
 July                                                                                            15,
-
-
 
 
 2010:                                                                                        Last
@@ -2269,8 +2117,6 @@ reached $10B in sales in 1997, and fell below 20% growth in year 2000. Google wa
 1998, went public in 2004, hit $10B in sales in 2006, and fell below 20% growth in 2009. So it
 took Microsoft 22 years to hit $10B in sales. Google did it in 8 years. Resultantly, Microsoft had
 growth of greater than 20% for 26 years; Google for only 11.
-
-
 
 
 I would argue the reason for the noted disparity is pricing optimization and pricing power. When
@@ -2328,12 +2174,6 @@ being public less enjoyable for executives. Increased bureaucracy and red-tape a
 to increased enthusiasm.
 
 
-
-
-
-
-
-
                           We may also have a perturbed notion of what a “healthy” IPO market looks
 like. For many, the go-go days of the late 1990’s stick in their mind as the definition of a strong
 IPO market. Unfortunately, the IPO market of 1999 was a myth, a façade, a once-in-a-lifetime
@@ -2352,8 +2192,6 @@ arguments (there were many) were handsomely rewarded. Furthermore, Bezos, Beniof
 Hastings all three used “being public” as a bully-pulpit to tell their version of their industry’s story,
 thereby aiding their advantage. If you are unconvinced go ask Steve Riggio, Tom Siebel, or
 Blockbuster CEO Jim Keyes.
-
-
 
 
                     Certainly one contributor to the negativity surrounding the Silicon Valley view
@@ -2379,8 +2217,6 @@ Venture-backed company exit activity showed continued momentum during the second
 fourth quarter of 2007, according to the Exit Poll report by Thomson Reuters and the National
 Venture Capital Association (NVCA). The quarter ended with 17 venture-backed IPOs, marking
 the third consecutive quarter for increased offerings, by number and by dollar amount.
-
-
 
 
 Looking at the Q3-2010 NVCA data included above, you can see that 2010 is markedly improved
@@ -2417,8 +2253,6 @@ outside SV. In terms of value today its 73.5% (SV IPOS have outperformed
 those outside SV). Perhaps these out-of-market IPOs aren’t well covered within Silicon Valley,
 and perhaps the negative IPO sentiment isn’t well heard outside of it. Our pessimism may have
 led to a self-fulfilling prophecy.
-
-
 
 
 Demand or Supply Problem?
@@ -2475,12 +2309,6 @@ provisions. These escrows typically put at risk 10-15% of the transaction value 
 company is acquired. Being public before you get acquired can be extremely valuable.
 
 
-
-
-
-
-
-
                               Your Company Is Not Facebook
     A large contributor to the negative IPO press is Facebook’s definitive view that it prefers to
     postpone its IPO well into the future. Recent comments suggest an IPO may be put off until 2012.
@@ -2526,8 +2354,6 @@ And all the world will love you just as long,
 As long as you are.” — Paul Rodgers, Shooting Star
 
 
-
-
 With the IPO market now blown wide-open, and the media completely infatuated with frothy
 trades in the bubbly late stage private market, it is common to see articles that reference both
 “valuation” and “revenue” and suggest that there is a correlation between the two. Calculating or
@@ -2536,7 +2362,6 @@ as the price/revenue or price/sales ratio) was quite trendy back during the Inte
 late 1990s. Perhaps it is not peculiar that our good friend the price/revenue ratio is back in vogue.
 But investors and analysts beware; this is a remarkably dangerous technique, because all revenues
 are not created equal.
-
 
 
                          What drives true equity value? Those of us with a fondness for finance will
@@ -2566,8 +2391,6 @@ from Overstock to Youku.com. Talk about room for error! What is that hot new com
 This graph would suggest that the company’s revenue alone is a very poor guide.
 
 
-
-
 Before we talk about why there is such disparity, it is important to highlight a few more points. As
 you can see in the above graph, there is a very long tail to the left. Basically, there are many more
 low-price/revenue multiple companies than high. The following table shows this statistically. Over
@@ -2576,8 +2399,6 @@ low-price/revenue multiple companies than high. The following table shows this s
 recognize that the majority of these high multiple companies are domiciled outside the U.S. This
 is important because the press tends to favor the higher multiples, such as 10X revenues, as their
 “defaults.” The problem is, only a handful of companies deserve to be in the “10X club.”
-
-
 
 
 What causes such a wide dispersion of price/revenue multiples? While one might not have the
@@ -2594,8 +2415,6 @@ revenue companies from low quality revenue companies, and therefore are the dist
 that warrant high price/revenue multiples.
 
 1. SUSTAINABLE COMPETITIVE ADVANTAGE (WARREN BUFFET’S MOAT)
-
-
 
 
                  By far, the most critical characteristic that separates high multiple companies from
@@ -2642,8 +2461,6 @@ benefited from network effects.
 3. VISIBILITY/PREDICTABILITY ARE HIGHLY VALUED
 
 
-
-
                          For the same reason that investors favor companies with sustainable
 competitive advantages, investors favor pricing models that provide a high level of predictability
 and consistency in the future. It is easy to see why revenue visibility would have a positive impact
@@ -2667,8 +2484,6 @@ such as TenCent in China. These companies are able to extract rent from whatever
 happens to be, and are therefore less vulnerable to “hit” risk.
 
 4. CUSTOMER LOCK-IN / HIGH SWITCHING COSTS
-
-
 
 
                  If investors value predictability, than retaining customers for long periods of time
@@ -2728,8 +2543,6 @@ was not concerned about this trend. Investors viewed things differently, and sen
 $48 the next day, representing a 7% fall from $578 to $530/share.
 
 
-
-
 This is also the reason that “human capital” businesses like consulting businesses often have
 trouble with low valuations on Wall Street. If the majority of costs are people, and people are also
 the key input for any work product, you will find the ability to generate increased marginal
@@ -2760,7 +2573,6 @@ search engines to direct a significant amount of traffic to our owned and operat
 the quarter ended September 30, 2010, approximately 41% of the page view traffic directed to our
 owned and operated websites came directly from these Internet search engines (and a majority of
 the traffic from search engines came from Google), according to our internal data.”
-
 
 
 These strong dependencies eat away at investors simply because the company is exposed to issues
@@ -2799,12 +2611,6 @@ highlighted, the cost of acquiring a new Skype user was $0.001, versus $400 for 
 heavy marketer. Which company deserved a higher price/revenue multiple?
 
 
-
-
-
-
-
-
 For a period of time, Jeff Bezos was a heavy investor in marketing, but after a while he retrenched.
 “About three years ago we stopped doing television advertising. We did a 15-month-long test of
 TV advertising. And it worked, but not as much as the kind of price elasticity we knew we could
@@ -2830,11 +2636,8 @@ five years, the public technology investor has been starved from investing in co
 interesting growth characteristics. As such, they are likely to be super-excited by any company
 
 
-
 with a growth rate over 25%. If its over 50 or 100%, they will be ecstatic. Trading in and out of
 companies with low growth rates is simply not that interesting to an investor.
-
-
 
 
 So growth is good, correct? There is a reason to save growth for last. While growth is quite
@@ -2842,8 +2645,6 @@ important, and even thought we are in a market where growth is in particularly h
 growth all by itself can be misleading. Here is the problem. Growth that can never translate into
 long-term positive cash flow will have a negative impact on a DCF model, not a positive one. This
 is known as “profitless prosperity.”
-
-
 
 
                                                  In the late 1990s, when Wall Street began to pay
@@ -2863,8 +2664,6 @@ will eventually be trouble. In fact, the very success of the first company in th
 siren inviting others into the market, which, in the absence of a competitive advantage, will lead
 to margin erosion. Many electronics products follow this trend as some hot new product is quickly
 commoditized.
-
-
 
 
 THE 10X CLUB
@@ -2887,8 +2686,6 @@ or marginal profitability. Profitability increased from Q3 to Q4 last year, but 
 sales spending in Q1, and profitability waned. So, assuming that the company is willing to show
 profit expansion over the next few years, it’s not that unreasonable for the company to trade at a
 10X price/revenue multiple.
-
-
 
 
 However, all companies with which the press and public are enamored are not LinkedIn. There are
@@ -2914,8 +2711,6 @@ going to file the S-1, it is imperative that you are prepared to follow through.
 the middle of the financial equivalent of the river Styx can have severe consequences.
 
 
-
-
                          Why is this a bad thing? The longer a company remains on file without
 pricing, the more questions arise about “why” the company may be struggling to move forward.
 Did they miss their numbers already? Are they having cold-feet? Are they not ready? Do investors
@@ -2929,12 +2724,6 @@ private with none of the gains of being public. You have been exposed, but you h
 show for it.
 
 
-
-
-
-
-
-
                                      There are many things that can cause delays in filed IPOs. The
    most common factor is unexpected questions from the SEC that cause iteration and re-filing. This
    is especially true of the SEC questions that require the auditors to revisit
@@ -2944,8 +2733,6 @@ show for it.
    your bankers conveyed on filing date, you may not want to suffer unexpected dilution. Lastly,
    there may simply not be enough demand for your IPO – which is an amazingly tough position for
    your company.
-
-
 
 
                                                    The attached table shows the # of days from
@@ -3073,8 +2860,6 @@ September 4, 2012: Many consumer Internet business executives are loyalists of t
     This is a simplified version of the formula:
 
 
-
-
     The key statistics are as follows:
 •   ARPU (average revenue per user)
 •   Avg. Cust. Lifetime, n (This is the inverse of the churn, n=1/[annual churn])
@@ -3192,12 +2977,6 @@ September 4, 2012: Many consumer Internet business executives are loyalists of t
      comparing their SAC with that of Vonage, an iconic disciple of LTV analysis.
 
 
-
-
-
-
-
-
 10. Tomorrow Never Arrives. The Utopian destination imagined by the LTV formula is a mirage.
 It almost never works out as planned in the long run. Either growth begins to slow, or you run out
 of capital to continue to fund losses, or Wall Street cries uncle and asks to see profitability. When
@@ -3227,8 +3006,6 @@ and cable provider expansion history, as well as a few recent Internet companies
 
 February 25, 2015: [An edited version of the following blog post originally appeared in a
 modified form in the pages of the weekend edition of the Financial Times last Saturday.]
-
-
 
 
 Every successful technology company raises money throughout its lifecycle, perhaps starting with
@@ -3326,8 +3103,7 @@ stage investors, desperately afraid of missing out on acquiring shareholding pos
 ---
 
 
-
-<!-- PAGE BREAK -->
+---
 
 # Part III: Building Companies
 
@@ -3547,7 +3323,6 @@ company I work with encountered not one, not two, but three venture-backed Germa
 "borrowing" the look and feel of the original. Unfortunately, look and feel was not all that was
 
 
-
 borrowed. As HTML files can be copied directly off a start-up’s servers, these new sites frequently
 include exact copies of source from the originator.
 Though cloning innocent start-ups may or may not be ethical, it is happening, and I wouldn’t count
@@ -3664,26 +3439,6 @@ business model neede
 
 ---
 
-# DVD Glut
-
-July 12, 2005: I can’t help but wonder if the recent news at Dreamworks and Pixar is in some way
-related to the Internet, Tivo, and other disruptive technologies. Could it be that people are
-watching Shrek 2 on Tivo and saving that on Tivo for future viewing? Could it
-
----
-
-# Techdirt: The Fake Broadband Price War
-
-
-
----
-
-# BAILOUT what?
-
-July 22, 2008: I
-
----
-
 # Google Redefines Disruption: The “Less Than Free” Business Model
 
 October 29, 2009: [Follow Me on Twitter]
@@ -3700,8 +3455,6 @@ and every Android mobile OS, I had an immediate feeling that I was witnessing a 
 of a magnitude heretofore unseen.
 
 
-
-
                                                 Google has long had an interest in maps. Early in
 its history, the company added “Maps” as one of the coveted tab alternatives offered at the top of
 the screen above its famed search box. At that time, Google did what many others did to enter the
@@ -3710,7 +3463,6 @@ mapping business – they licensed data from the two duopolists that ruled the m
 and larger and larger market capitalizations, Google’s ambitions were growing too. Google wanted
 to spread its maps across the web, and to allow others to build on top of its mapping API. The
 duopolists, recognizing a fox in the henhouse, were apprehensive to allow such activity.
-
 
 
                          In the summer of 2007, excitement regarding the criticality of map data
@@ -3723,12 +3475,6 @@ terms to allow more liberty with respect to syndication and proliferation. NavTe
 September of 2008 Google quietly dropped NavTeq, moving to just one partner for its core
 mapping data. Tele Atlas eventually agreed to the term modifications, but perhaps they should
 have sensed something bigger at play.
-
-
-
-
-
-
 
 
                          Rumors abound about just how many cars Google has on the roads
@@ -3748,8 +3494,6 @@ forced to be price takers. You can see evidence of this price umbrella in the un
 price point TomTom now charges for its iPhone application. When TomTom bought Tele Atlas,
 the die was cast. Eat or be eaten. If you didn’t control your own data, how could you compete in
 the GPS market? This is what prompted the Nokia-NavTeq deal.
-
-
 
 
 Google’s free navigation feature announcement dealt a crushing blow to the GPS stocks. Garmin
@@ -3779,8 +3523,6 @@ is easy to use, and quite frankly the price is right. In the future, if you want
 business to people with an interest in your local market, chances are you will look to Google for
 that access.
 Introducing the “Less Than Free” Business Model
-
-
 
 
                                                Google’s brilliance doesn’t stop there. It is hard
@@ -3846,12 +3588,6 @@ misleading term. To truly understand conversion you need a “conversion matrix�
 through your site.
 
 
-
-
-
-
-
-
 Even this does not tell the whole story. In 2013, we are in the midst of a critical platform transition
 from the browser-based Internet to mobile applications platforms like iOS and Android. This
 transition adds even more complexity to the conversion puzzle, as you now need to track and
@@ -3898,12 +3634,6 @@ basis point increase in absolute conversion. Because conversion improvements imp
 customer flow you already have, they lead to a direct increase in revenue, offset solely by the cost
 of running the conversion improvement effort. In this case we used $1mm/year cost for the smaller
 companies, and up to $10mm/year for Priceline.
-
-
-
-
-
-
 
 
 If you look across the group you will see impressive increases in operating income, and net income
@@ -3970,8 +3700,7 @@ multi-year project that will never see the light of day.
 ---
 
 
-
-<!-- PAGE BREAK -->
+---
 
 # Part IV: Industry Deep Dives
 
@@ -4016,7 +3745,6 @@ hazardous. Not only will it lead to disappointed expectations, but it may also l
 accurate vision of the future.
 We would now like to walk through five separate Internet issues, where we believe that the
 computer centric viewpoint is misleading. It is our goal to inform, provide a new way of thinking
-
 
 
 about some of these issues, and hopefully improve the accuracy of the general outlook. As
@@ -4425,7 +4153,6 @@ announced that in early spring, each coffee house would begin offering Wi-Fi acc
 patrons. Soon, Wi-Fi access may be like VISA: “anywhere you want to be.” Once again, the
 
 
-
 compelling issue is the portability. You can carry one computer from work to home to the airport
 and even to Starbucks and always reach your data.
 Some startups have an even broader ambition to rollout carrier class Wi-Fi access by installing
@@ -4495,7 +4222,6 @@ Neither Bitten Nor Blue.” You see, the Bluetooth community is already off-bala
 to play offense when you are constantly playing defense. When Microsoft announced a few months
 back that it was dropping Bluetooth support from Windows XP, the Bluetooth contingent must
 have felt like it was standing in quicksand.
-
 
 
 Even without competition from Wi-Fi, Bluetooth would have major challenges. That’s because
@@ -4870,7 +4596,6 @@ architectures have resultantly faced obsolescence. There have also been many wel
 attempts to unseat the standard (remember PowerPC?) — all to date unsuccessful.
 
 
-
 Founded in 1980 by Intel, DEC, and Xerox, Ethernet has enjoyed a similar success story in the
 networking industry. Prior to the 1980’s, most computer makers followed a vertically integrated
 strategy, and as a result each had their own networking standard. However, as more and more
@@ -5029,7 +4754,6 @@ Hilton and many other hotels declared that in the future, the best rates would b
 own web sites, not on Expedia or Travelocity.
 
 
-
 Think about this. If you assume Brian Roberts and the team at Comcast are rational, then they
 would only consider such an offer if they believed that the market was overvaluing distribution
 relative to content. If they felt the power of distribution would rise in the future relative to content,
@@ -5073,8 +4797,6 @@ for non-altered IP services, then the cable companies may very well get away wit
 5) How will the RBOCs respond?
 
 
-
-
 The RBOCs are unfortunately in a difficult position. Their current IP networks are simply too thin
 to provide the type of IP connection that can realistically carry video. Additionally, they are
 burdened with excess regulation, including one critical piece of regulation that requires they allow
@@ -5116,8 +4838,6 @@ Controlling the UI (as it will unquestionably do in PCs) is a very strong positi
 aggregate, bundle, and extract rent from video over IP services.
 
 7) Will there be a video over IP portal?
-
-
 
 
 Who will make money from video over IP aggregation or distribution? As just mentioned,
@@ -5289,21 +5009,6 @@ and resources are now focusing on other states to ensure the Texas outcome.
 
 ---
 
-# Pro-Broadband Muni Issue Goes National
-
-June 23, 2005: The battle to allow cities to
-
----
-
-# Wifi Nation…
-
-July 22, 2005:
-
-Click on this graphic from the most recent edition of Business Week. What you will see, and what
-many continue to deny, is t
-
----
-
 # MMOs (MMORPGs) Continue to Rock MMOS (MMORPGS) CONTINUE TO ROCK
 
 April 27, 2006: There is a great deal of interesting activity in MMO land these days. You may
@@ -5342,9 +5047,6 @@ April 27, 2006: There is a great deal of interesting activity in MMO land these 
    by Vivendi for launch in the US. One more is Pangya, a multi-player casual golf game.
    All of this is quite amazing and exciting. Multi-player interactive is going to be a massive, massive
    category.
-
-
-
 
 
    As Wifi Grows, So Do the PR Attacks
@@ -5415,8 +5117,6 @@ majority of their revenue, and terminate 80% of their employees. But hey, that�
 ours. We love disruption. It serves our purpose.
 
 
-
-
 One often discussed target of such criticism is the media industry. There is a widespread belief
 that Hollywood now faces the same digital threat that has plagued the music industry over the past
 ten years. The argument goes something like this: There is nothing Hollywood can do to stop this
@@ -5427,9 +5127,6 @@ in the towel now and take what’s coming to them. Denial equals delay, and dela
 away from learning how to execute within your new constraints. All content will be free, and you
 simply have to live with that fact. The sooner you get in touch with it the sooner you will learn to
 execute in the new reality.
-
-
-
 
 
 There are three key reasons why Hollywood is under less duress than Silicon Valley wants to
@@ -5453,8 +5150,6 @@ because any aggregator would be afraid to market a television package without ES
 past 30 years, these fees have become the lifeblood of the TV content business – affecting how the
 major aggregators think and operate, and also affecting how content is produced, financed, and
 packaged.
-
-
 
 
 Here are some specifics to help frame the issue. According to Matthew Harrigan at Wunderlich
@@ -5489,8 +5184,6 @@ development costs, and therefore, they are not explicitly 100% GM. But as there 
    of these showdowns each and every year.
 
 
-
-
 2.                            Modern Day Cable Channel Strategy. Today’s most typical cable strategy
    is built entirely around profit maximization utilizing affiliate fees. If you own a cable channel,
    your goal is to develop one or two key, hit programs, and fill the rest of the linear lineup with very
@@ -5513,12 +5206,6 @@ development costs, and therefore, they are not explicitly 100% GM. But as there 
    such example.
 
 
-
-
-
-
-
-
 5.                      Oprah Asks for Fees. Many people seem confused by Oprah’s decision to
    abandon her network television show after 25+ years of unquestionable success and relaunch it
    within her own cable network. Why would she do such a thing? Because she can. When Oprah
@@ -5534,8 +5221,6 @@ development costs, and therefore, they are not explicitly 100% GM. But as there 
    and pro wrestling is vying for one as well. If you own exclusive content, you might as well build
    a channel around it. This endless proliferation of channels will one day reach a limit, but for now
    it’s the game on the field.
-
-
 
 
 7.                             Hulu/Boxee. Many people blamed Hulu for its decision to block access on
@@ -5559,8 +5244,6 @@ development costs, and therefore, they are not explicitly 100% GM. But as there 
 
 recurring revenue, through a distribution partner? If you create a new piece of camping equipment
 would you sell it online or try to obtain distribution through REI?
-
-
 
 
                                                    ESPN360 is a solid example of content owner’s
@@ -5587,8 +5270,6 @@ Ignore for a moment that this is not completely working just yet and focus on wh
 on your laurels the way a true monopolist would. Check.
 
 
-
-
                          Next comes the clever part. The cable companies go to the content owners
 and make the following argument. With Internet-connected TVs on the horizon, you can no longer
 separate the Internet from the TV or the office from the living room. We pay you an affiliate fee to
@@ -5604,8 +5285,6 @@ Some have even suggested that Comcast has approached the large networks and offe
 affiliate fee of around $0.50/sub to pay for over-the-top rights. Proactively increasing your own
 costs is a fairly unique business strategy. But this move also increases the costs for the disrupters,
 who are far less likely to be able to afford it.
-
-
 
 
                                                   As a result of these maneuvers, the current trend in
@@ -5638,8 +5317,6 @@ against TV Everywhere. And with “free” off the table, the dimensions of comp
 inherently less disruptive.
 
 
-
-
                         There are two other potential challenges for non-facilities based content
 aggregators. First, as was the case with Satellite radio, we may see a “no holds barred” price war
 
@@ -5651,8 +5328,6 @@ weekend (NFL Sunday Ticket), and they recently coughed up over $4 billion to ext
 Wow. What if other digital “packagers” look for unique differentiation by leveraging the cash on
 their balance sheet? If this happens, any digital aggregator without deep pockets will be holding a
 knife at a gun fight.
-
-
 
 
                          The second externality that could cause trouble is “bandwidth limits” or
@@ -5667,8 +5342,6 @@ same video over their own “optimized” TV infrastructure (backed up with an a
 technical analysis and white papers). The fox isn’t just guarding the henhouse, he designed it.
 There are still two legitimate arguments that trump all these discussions of affiliate fees and deft
 corporate strategy – piracy and content democratization. Let’s start with piracy.
-
-
 
 
                          What if “BitTorrent 2.0” in whatever form it takes is just blatantly
@@ -5710,12 +5383,6 @@ upside is far, far greater and its user base will expand by an order of magnitud
 service can overcome a major perception problem.
 
 
-
-
-
-
-
-
                                             Twitter suffers from two key misperceptions that need
 to be resolved before the business can reach its true potential. The first misperception is that
 Twitter is simply another social network, like Facebook. People commonly think of Twitter as a
@@ -5735,8 +5402,6 @@ Twitter as a Facebook variant, they immediately assume the platform’s core pur
 to broadcast his or her own thoughts and personal information (like Facebook), but to a much
 broader public audience. For those with this perception, the notion of potentially exposing their
 own private thoughts to the broad public Internet is overwhelming and uninteresting.
-
-
 
 
                                        The second, and more critical, Twitter misperception is that
@@ -5759,8 +5424,6 @@ is symmetric in terms of its poster-reader relationship, Twitter is highly asymm
 of the tweets on Twitter are posted by a small sub-set of the users. And the majority of the users
 get value from “reading” or “listening” to the tweets from these core influencers. Once again, for
 most users it’s more about what you hear, learn, and find than the fact that you can tweet.
-
-
 
 
                                                    In many ways, Twitter is much more of a
@@ -5787,8 +5450,6 @@ interesting sources to follow. It evolves into a richer and more customized offe
 discover new people as well as new information. Lastly, Twitter’s unique handles and follower
 networks create a strong-form network effect that has high lock-in and high switching costs.
 Twitter and its top tweeters have a deeply symbiotic relationship.
-
-
 
 
                                       So what can Twitter do to solve this misperception problem?
@@ -5851,791 +5512,6 @@ This was Dave’s
 
 ---
 
-# The Ezra Klein Show: VC Bill Gurley on Transforming Health Care
-
-November 15, 2017: In November of 2015, I posted a tweet that declared Benchmark was
-interested in discovering Internet healthcare investments. Our firm has had the good fortune to
-invest in many two-sided networks that used information aggregation, supplier aggregation, and
-user generated content to attract and inform consumers and resultantly disrupt and change different
-industries. Examples of such companies include Yelp, OpenTable, GrubHub, 1stDibs,
-DogVacay/Rover, Zillow, and Uber. It only seemed logical to us that the same opportunity should
-exist in healthcare. Most people are aware that healthcare spending in the U.S. has risen to 17-18%
-of GDP and is grossly out of line with other comparable nations. Additionally, all of us that have
-been consumers of the U.S. system are blindingly aware that numerous inefficiencies exist in the
-system. Simply put, there is amble room for improvement. So if Internet and mobile
-technologies can be used to change real estate or transportation, why not healthcare?
-Over the next two years, I looked at many healthcare IT investment opportunities – I went “all in.”
-It’s worth noting that our primary focus was on technologies that aided and improved primary
-care, which is about half of the U.S. market in terms of revenue dollars (there is no question that
-digital tools will successfully impact specific acute diseases/disorders, but it’s our intuition these
-are best left to 100% focused HC investors). At first, this deep dive proved frustrating. The more
-we learned, the more we realized how much we did not really understand. The U.S. healthcare
-system is confusing and complex. Eventually, however, we gained our footing and developed a
-mental model for the industry and a framework for where opportunities do exist. We also
-discovered what we believe is a large and investible trend/theme. In May of this year, Ezra Klien,
-who is remarkably informed and intelligent on the topic of healthcare, was kind enough to include
-me on his podcast to discuss and debate my learnings. That podcast is included here along with a
-transcript.
- Ezra Klein: Hello and welcome to the Ezra Klein Show, a podcast on Vox Media Podcast
-Network. I am Ezra Klein and my guest this week is Bill Gurley. Bill is a general partner at
-Benchmark, one of Silicon Valley’s really legendary venture capital firms. He is one of Silicon
-Valley’s legendary venture capitalists. He was named the venture capitalist of the year in 2016 at
-the TechCrunch’s annual Crunchy awards. He’s been an early investor in Grubhub,
-OpenTable,Uber, and Zillow and all kinds of things. A very, very smart guy, a very thoughtful
-guy. We’ve been talking recently because he’s been thinking a lot about healthcare.
-They’ve recently made some investments in that space. The reason I wanted to have him on was
-that we have been having this conversation in Washington about how do you reform the healthcare
-system? What would a better healthcare system look like? What would a cheaper healthcare system
-look like. It is a very narrow conversation. It is had from a very policy-oriented perspective, what
-can we write into a law? It is made by people who I think often have a pretty limited set of views
-and experiences on the topic. Gurley’s been attacking this from another perspective, that of the
-entrepreneur. Where can you actually enter the system? Where can somebody come in and make
-something better and make some money off of it? He’s been working on this now for a couple of
-years.
-I thought this would be a good way to think about this from a broader perspective. Think about
-what is possible and what isn’t. You’ll hear in here that Bill and I have somewhat different views
-
-on this. I am pretty skeptical of consumer driven healthcare systems. I think that is not what people
-want in healthcare and as such it is not what we are going to get. He has a different view, and I
-think it is an interesting one. We talk a lot about the Singaporean healthcare system, which has
-become definitely an obsession of mine. He talks about his view that maybe democracy [and
-capitalism are just going to eat each other alive. We should be looking at China for the real
-innovations now.
-It’s a fun interesting conversation. I like healthcare a lot. I talk more than I typically try to, even
-though I typically talk a lot in this podcast, but I hope you enjoy it a lot anyway. Before we jump
-into it. A quick couple of plugs. Check out my other podcast The Weeds, which also has a great
-discussion of the Singaporean healthcare system. You can download The Weeds live episode for
-that. My colleague at Vox, Tod VanDerWerff, our critic at large, has a great new podcast called I
-Think You’re Interesting. He has an interview with a bunch of the Samantha Bee writers recently.
-That is a great interview. I think if you’re into the folks that I’m talking to, you’ll be into that one.
-Again that is I Think You’re Interesting by Tod VanDerWerff. You can get it wherever fine
-podcasts are downloaded. Without further ado, here is Bill Gurley. Bill Gurley, welcome to the
-podcast.
-Bill Gurley: Thank you, Ezra. Appreciate it.
-Ezra Klein: When we talked recently you told me that you’ve been on a multi-year learning deep
-dive on healthcare. Tell me a bit about that. What got you interested and how have you been
-studying the system?
-Bill Gurley: Great. Our firm has been fortunate enough to be an investor in numerous
-“marketplaces”. I think it started with eBay, but then we got into more vertical specific ones, like
-Zillow, Grubhub, OpenTable and Uber that I’m on the board of. When you’ve had some successful
-marketplace investing, you start to say, “Okay, well what are the biggest segments of our economy
-and is there an opportunity to do something similar against those different industries?” And one
-that kind of stands out like a sore thumb is healthcare because it’s risen to whatever the latest
-number is, 17% or 18% of GDP. The other thing that’s pretty obvious, I think, for any entrepreneur,
-you say, “Wow, look, there’s a lot of room for disruption.” The reason people come to that kind
-of natural conclusion is because they see waste or they see inefficiency or they see a lack of
-transparency.
-These are areas where digital tools have had an impact on other industries. I think the core thesis
-is one that’s almost tautological that, “Oh, yeah, you should be able to use these technologies,”
-smartphones, websites, the internet, transparency, pricing aggregation, reviews, and have some
-type of impact. But that’s really just the starting point and that’s when I put out a Tweet three years
-ago and started meeting with digital healthcare [00:05:00] startups.
-Ezra Klein: What was that Tweet?
-Bill Gurley: Oh, I think I said, “I’m interested in looking at digital healthcare startups,” and created
-an email that was I think healthcare@benchmark.com and just kind of opened the flood gates on
-purpose.
-Ezra Klein: Did you get interesting responses to that?
-Bill Gurley: I did, and I should caveat that there are a number of great venture firms that get really
-focused on things like biotechnology and drugs and pharma, and we’re not going to do that.
-Benchmark has historically been a tech-based startup, so I’ve been mostly looking at ways that
-digital technologies could impact the healthcare system, not at products or drugs or things like that.
-
-
-Ezra Klein: Tell me a little bit about the learning journey that emerged from this. What did you
-learn that surprised you?
-Bill Gurley: There’s this interesting theory people have that the first part of your learning, your
-confidence [00:06:00] of what you know actually drops instead of rises and I certainly went down
-that curve. I would say it probably wasn’t until I was two years into the process that I even had
-confidence to write a check, to make a decision as a venture capitalist, because the first couple
-years all I learned was shocking and confusing and I’m realizing that was very different from a
-normal world.
-I got very lucky early on because someone introduced me to a book by David Goldhill called
-“Catastrophic Care.” What’s interesting about the book is David’s an outsider. His fathe,
-unfortunately, got into a really bad incident involving the healthcare system and he went deep. He
-runs the Game Show Network. He’s a really odd person to write a healthcare book, but he wrote a
-fascinating book and I think uncovered all the things about the US healthcare system that kind of
-undermine its success. He’s done podcasts and stuff and I urge you to check out his stuff.
-Some of the big things that come up, I first and foremost say it’s not a competitive market. I think
-people have the perspective, especially … I’ll opine on Washington for a second because I think a
-lot of people that write healthcare policy, they think it’s an open market, but you really don’t have
-… The consumer doesn’t know price when it makes a decision. The consumer’s not the payer. The
-payer is the employer. The employer is in the system for what reason exactly? It’s super complex,
-the way people get paid, the way people make decisions, and completely different from every other
-industry in North America. That creates a ton of problems.
-There’s no price transparency, that’s another big one. I think the current system is self-reinforcing.
-It’s getting bigger and bigger because of the way the dynamics bounce against one another. That
-would require a deeper dive to explain.
-Ezra Klein: We’re a pretty deep dive place, but maybe I can unpack a little of that for folks who
-I think … Maybe there’s a little shorthand there, which is that healthcare has emerged in this very
-weird way in America where you tend to have third party payers. In between you and the healthcare
-system, say you have your employer, right? I get my healthcare insurance through Vox Media, so
-I actually don’t know the cost of my healthcare, or the government-
-Bill Gurley: Let’s talk about that for a minute. I did some research, I wouldn’t have known this
-innately. We’re one of the only countries in the G20 where the employer’s involved. You say-
-Ezra Klein: That’s like a weird World War II tax quirk.
-Bill Gurley: Yes, yes. Coming out of World War II, the president was definitely afraid of inflation
-and so there was mandated wage restriction. You couldn’t increase wages, and that was mandated
-by the government. People [00:09:00] started throwing in benefits. Low and behold, here we are
-70 years later and we get our healthcare from our employer. We don’t get laundry services, we
-don’t get our lawnmower, we don’t buy clothes through our employer.
-Ezra Klein: Although I guess in tech sometimes you do get your laundry done over there.
-Bill Gurley: Fair enough. I think that’s being weaned off.
-Ezra Klein: Sure.
-Bill Gurley: Yeah, we’ve got this extra person involved for no reason and, of course, a lot of the
-problems stem from that.
-Ezra Klein: I tend to agree with this, but there are two ways of looking at it. One is a way that my
-conservative friends often look at it. Virtually every healthcare expert I know agrees that that tax
-break, moving the system to the employer, is the original sin of American healthcare policy, that
-
-almost every bad thing flows from right there. My conservative friends look at that and they say,
-“Well, if we hadn’t done that, maybe we could have a real market-based, patient-centered,
-consumer-driven system.” And my liberal friends look at that and they say, “If we had not created
-this halfway measure of health security, we would have what every other country has,” which
-seems to work well in other places, which is a government-run system where health protection
-insurance is guaranteed in some way or another, the exact structures differ, but by the state.
-This is, I think, an interesting divergent branching, because Goldhill who wrote that great Atlantic
-article and then his book, which I do recommend people read, sort of takes it in that other direction.
-He says, “If we didn’t have that, then maybe we could really shop for healthcare the way we shop
-for TVs, the way we shop for food, the way we shop for furniture, and the system would meet our
-needs as consumers, and that would be great. A lot of people argue that point.
-Talk to me a little bit about how you came to the view, or whether you hold the view, that that is
-what we need, that a consumer-centered healthcare system is actually a good thing as opposed to
-a category of some kind.
-Bill Gurley: Our system, which is the highest in the world as a percentage of GDP, has the illusion
-of the free market, the illusion of being highly regulated, and the apparent benefit of neither. My
-answer to what you just said is we have a faux marketplace right now and I think there’s tons of
-data that says making it more competitive ala Singapore would be better, or making it single payer
-ala a bunch of other countries would be better. And I have to agree with both of those assertions.
-What seems obvious is the current state of our system is not the right answer.
-Ezra Klein: Well, that I certainly agree with. I want to put a pin in Singapore and come back to it.
-Let’s talk about David Goldhill for a minute, and it’s been a minute since I read his work, but he
-believes that we should have a system that is built around catastrophic care, very, very, very high
-deductible catastrophic care. He talks at times about tens of thousands of dollars of deductible.
-The question I want to pose to you is maybe the reason healthcare evolves in this different way is
-that it’s not a normal good in the way people treat it. That as a society we are okay with the idea
-that you can’t purchase a television, we’re okay with the idea that you can’t purchase a nice couch,
-but we’re not okay with the idea on some fundamental level that you get cancer and you can’t pay
-for care, or even lower than that, that you break your leg and you can’t get it put in a cast by a
-reputable doctor. And that what people are looking for in healthcare, and I think this often foils
-the market, is security above all, where in other places they’re willing to take risk, they’re willing
-to take chances. I think something that keeps becoming a problem for various sort of consumer-
-driven initiatives here is that people demand a level of security and predictability and reliability
-out of [healthcare that keeps them from being able to walk out of a doctor’s office and say no, or
-keeps them from being willing to accept the consequences of a market, which, after all, rely to
-some degree on scarcity.
-Bill Gurley: Yeah. I have two initial reactions to that. One, the more I read about people coming
-up with solutions for healthcare, a lot of times I see someone that believes in one answer,
-demonizing the other. We end up just doing neither because we’re pointing fingers back and forth.
-I could see an argument for having some price controls and more competition. I don’t know that
-these things have to be at odds with one another. So that would be my first assertion.
-The second thing I would say is there is certainly an argument that competition can drive quality
-and results and price. It doesn’t have to be true that having more competition will lead to some
-type of worse outcome versus not having it. In fact, a lot of people believe that the way you get to
-higher and higher efficiencies is through that competitive process. I would point to the thing that’s
-
-most frequently commented on in this type of conversation, which is LASIK, where the price and
-execution of LASIK today, which is typically bought not through insurance, but bought by people
-as a competitive good, has been driven down and down and down. There’s shining a laser in your
-eye. This isn’t like super simple and arguably it’s much safer today than when they first started.
-Ezra Klein: Yeah, LASIK is such a fascinating example, and people bring it up and I think you’re
-right to focus on it. It has a couple of qualities that I’d be curious to hear how you think about
-them. One is that it is optional, right? I have glasses and I think a lot about getting LASIK and I
-am just squeamish about getting a laser cut into my eye, so I haven’t done it, which is different
-than say cardiovascular health treatment.
-Bill Gurley: Absolutely.
-Ezra Klein: There is a quality of being able to say no and being able to shop around and being
-able to do things on your timetable that really matters here, but the other thing that I think is
-interesting there, because here’s where I think possibly liberals can take this argument too far.
-There are a lot of pieces of the healthcare market or healthcare services that could be pulled out,
-like LASIK, and one thing that some places, and I think when we get to Singapore we can talk
-more about this, too, is primary care can be treated very, very differently than more specialty care
-or more catastrophic or chronic disease care. I think one of the questions the LASIK example
-brings up is are there ways to cut the healthcare system up a little bit differently? Are there ways
-for more things to be pulled out of third party payer model and it’s something you get through
-HSAs or there’s some other way of making it affordable for more people, but because it has this
-optional asynchronous quality to it, we can expose it more to market forces without saying at the
-moment you do that, that that also means if you get cancer and you can’t pay for it, you’re out of
-luck?
-Bill Gurley: Right. Well, look, I think that the high deductible plans do that somewhat in that if
-you’re having cardiovascular work or if you have a premature birth, you’re over that cap. You’re
-into that system. And things that are going to live underneath that are going to be more of your
-primary care. I think about 50% of our market is acute care and about 50% is primary care, so
-maybe the place … And I think that makes a lot of sense, right? The place where competition and
-hopefully consumerization, and when I use that word I mean providers that care about the
-consumer experience, that can happen down in this primary care bucket, which is half of the
-system.
-This is, I think, a good moment to go a little bit back to your story. There’s a lot I want to follow
-up in here, but I also want to track what you’ve been doing. You went through a couple years
-where initially you looked at this and said, “This market is nuts. This system doesn’t make any
-sense. I’m not sure there is a way to expose it to entrepreneurship or there is an inlet for you.”
-What began to convince you that something was changing or that there was an opening? What was
-sort of the crack in the armor for you?
-Bill Gurley: Do you mind if I … Can I go back and I want to talk about a couple other things that
-I saw? Because I think that it’s important for everybody-
-Ezra Klein: Yeah, that’s totally … I do not believe in linear conversations.
-Bill Gurley: Okay. The first one is to really understand how big hospitals and big insurance
-carriers and big employers are all feeding on one another to make the system worse and worse and
-worse. The way the system’s designed, it’s just instinctive for them to do this. Most large hospital
-systems are getting as big as they possibly can. Stanford here in our backyard is gathering up
-general practitioners, specialists, they’re literally getting as many people into their system as they
-
-
-possibly can. You can drive 30 or 40 miles from the Stanford campus and you’ll see a new hospital
-going up with the Stanford name on it. You say to yourself, “Why are they getting bigger?”
-Well, there’s two things: It gives them leverage with the carrier, but also if their footprint is that
-big, no employer around here is going to walk a narrow network plan that doesn’t have Stanford
-Hospital System in it. You see this kind of … And, by the way, if you are a startup that wants to
-sell to an individual general practitioner, you should know that they’re actually on the wane.
-There’s fewer and fewer individuals. They’re all getting sucked into these big systems, partially
-because they don’t want to go through the struggle of getting paid and if they can be a part of this
-big system, then they’re going to have a much easier time getting paid, because that system has
-more leverage with the carriers and the employers.
-It turns out, if you go deep on pricing, if you open a Castlight app and you look at these large
-hospital systems, you will see over and over again, and this has been written in a number of the
-articles I’m sure you’ve read, an 8 to 1 delta in pricing, 8 to 1 versus the low end of the market.
-It’s unbelievable, right? Someone can charge $3,200 for an MRI when you could get it for $400.
-By the way, if your general practitioner gets pulled into one of these big systems, they’re going to
-recommend you get your imaging at that system and you wonder how-
-Ezra Klein: Can I hold … Let me push you on one question about his, Bill, because I think this is
-fascinating. We’ve done a lot of work with the Castlight data and I actually completely agree with
-the larger point that all the pricing is crazy. But there is this kind of thing in healthcare where
-people get really shocked that MRIs cost different amounts in different places, but we’re not
-shocked by that in cars. We’re not shocked … By that I mean, you can go into San Francisco and
-you can buy a burger at McDonald’s for a buck and you can go then a couple blocks down and
-buy a burger for $27.
-Tell me what it is that shocked you about it, because you’re a guy who … You’re in the business
-world. People price differentiate all the time. Isn’t Stanford just giving you better MRIs? Wouldn’t
-that be their argument?
-Bill Gurley: Do you believe that?
-Ezra Klein: No, but I want you to say it.
-Bill Gurley: Okay.
-Ezra Klein: But I think it could be conceptually possible.
-Bill Gurley: They’re buying the equipment … They’re not making the equipment, they’re buying
-the imaging equipment. They’re just running you through it. I don’t believe that the reason that is
-8X price is because it’s 8X better. I do not believe that. I believe it’s 8X priced because they can
-charge it.
-Ezra Klein: So you think what’s happening is a kind of … You think this is the power of
-concentration, that these systems are getting big enough that it is just easier for the third party
-payer to pay them off than to turn around and say to their employees, say, for Vox Media to see to
-me, “Hey, I know you want to go to the dominant hospital system in your area, but we decided it
-was too expensive and now you can’t.”
-Bill Gurley: Look, this is part of where getting the employer out of the game might be helpful,
-right? I think narrow networks play a really important, or they represent a really important
-opportunity to get pricing down. If you talk to a benefits provider at a large company, and I did
-this as part of my process, I probably had 10 or 15 meetings with these benefits providers, first of
-all, none of them want to be in this game. This is the most reluctant task that any company has to
-do. They do not want to be in this game. They are forced into it. Second, their number one task as
-
-an employer is to not lose competitive situations for new employees because their benefits aren’t
-good enough.
-The number of companies who are maybe self-insured that are willing to push the edge in terms
-of trying to redefine cost I bet you is 10 or 20. You heard about the Safeway story probably.
-Remarkable outlier. They’re just not going to go break their pick to redefine the system from where
-they sit. They don’t have the authority within the organization to make that their missive, does that
-make sense?
-Ezra Klein: Yeah, but this is so interesting. I’d like you to hold on it for a minute, because I think
-this is important to what should be the central mystery of all this. In some stylized model of the
-American healthcare system, what you might say is, “Okay, individuals do not pay for their own
-care and they do not have full incentives to bring down the cost of their own care.” They have
-some incentive, but they’re a little bit insulated. But, employers sure as hell do. And employers
-have these whole HR departments, so they have all this information and all this expertise and they
-even have more negotiating leverage than an individual does. You could really imagine a world in
-which employers were more efficient, not less efficient, at getting good costs on insurance, on
-negotiating better prices. They have the expertise and they have the incentive and they have the
-size. Yet, we don’t see this world.
-It, to some degree, is one of the persistent mysteries in the healthcare system, but a little bit like
-you’re saying, this is in the HR department and the HR department does not want everybody
-screaming and yelling and then the CEO comes and says, “What the fuck? Why is everybody so
-mad at me?”
-Bill Gurley: That’s right. I think it’s a complete myth. I think it’s a myth that most employers
-want to drive down costs. The easy thing for them to pick off is apparently premature births and
-heart attacks can account for like 40% of their bill for a self-insured employer, so they will do
-things to try and preempt those two events, because they’re so large. But generally driving down
-costs if it means sacrificing employee satisfaction, they will not do it.
-There’s a large number of people in the general populace that think employers are going to drive
-down costs, the self-insured ones, and there’s a ton of entrepreneur that think it, and from my
-conversations with these benefits providers,is a myth.
-Ezra Klein: And one thing I think is interesting there, too, is that you would also assume that
-employers would want to get out of this market. You just talked about how reluctant some of these
-negotiators are, but in health policy consistently what you hear people say, and it’s Lucy and the
-football every time, the reason employers ultimately … They may not want to be in the market,
-just like they may not want to pay high costs, but what they really don’t want to do is piss off their
-employees. And pulling out of the market and not giving them insurance anymore pisses them off.
-Bill Gurley: Oh, absolutely. If you were to ask them a different question, which is what if the
-government mandated all employers get out of the business, would you prefer that? They would
-all say yes, every one of them.
-Ezra Klein: So I’m going to disagree with you here.
-Bill Gurley: Okay.
-Ezra Klein: They could do that. Look, the Chamber of Commerce could lobby for single payer.
-They don’t do that. The NFIB could lobby for a single payer. There was a couple years ago the
-Wyden-Bennett bill, which really did a version of that and employers were against it. This is why
-I say, “This is the Lucy and football of healthcare policy.”
-
-
-Bill Gurley: That’s presenting the argument a very specific way where you’re forcing them to opt
-into something else instead of just opting out. Based on the conversations I’ve had with these
-people, or even CEOs might be a better way to say it, if we snapped our fingers and in America
-the employer was no longer part of the healthcare system, would you be okay with that? I think
-they would all say yes.
-Ezra Klein: But why don’t they … If you’ve had these conversations, if employers were pushing
-for what we have in every other country, which is a system the government runs and employers
-aren’t part of, we would have had that system a long time ago. Do they say why they don’t, then,
-say to their representative, “Hey, quietly, go work with Bernie on that Medicare for All thing.”
-Bill Gurley: Fair enough. I haven’t gone that deep. I just haven’t met a single one of them that
-finds it to be awesome to be in this role.
-Ezra Klein: I definitely think it’s not awesome. Okay, so you worked on this. You have the
-employer problem, what else?
-Bill Gurley: There’s other things, like people think carriers want to drive down costs and I haven’t
-seen a ton of proof of that either because that involves ruffling feathers, you know? It involves
-upsetting one of these large hospital care systems if you start pushing narrow networks that they’re
-not in. They make a percentage of the overall pie, so as long as the pie is growing as a percentage
-of GDP, it’s a pretty good place. So I don’t think they have much incentive either, so there’s a lot
-of entrepreneurs saying, “Oh, I’m going to help the carrier bring down costs,” or “I’m going to
-help the employer bring down costs,” and I don’t think the incentives really exist.
-Then there’s weird stuff like the thing that kind of is just most shocking to me that I think most of
-… I’d be surprised if most of your listeners have ever even heard of and may not even believe
-when I say it, is in 2009 as part of the Reinvestment Act, our government made the decision to pay
-$20 billion to doctors to implement software. It’s just fascinating, especially from a Silicon Valley
-perspective. Would anyone ever do that? It’s so radical. We were going to pay people, who are
-clearly closer to the top 1% than anything else, money, and it’s $44k each, to implement software.
-It’s crazy.
-Ezra Klein: You’re talking here about electronic health records.
-Bill Gurley: Yes. Well, first of all, why do you need to pay them or why do you think you need
-to pay them? Well, part of the reason is there aren’t enough market forces to demand that they
-implement them in the first place. Every other … You don’t have to pay Cisco to put an ERP
-system in. They have to do it to be competitive.
-Ezra Klein: And it still didn’t work. We actually … So my colleague and I, Sarah Kliff,
-interviewed President Obama as one of his last interviews about healthcare and we asked him what
-were his regrets, what did not work? And one of the things he named was EHR adoption had not
-been what they had hoped, despite the fact that they spent a lot of money on it.
-Bill Gurley: The only reason I can believe that it happened is because the only executive on his
-advisory committee was the CEO of Epic Software, the largest EHR vendor out there. If you go
-back and study which company benefited the most from that program, it was Epic. That’s the only
-reason I can believe that it happened, but it makes no sense whatsoever.
-If you were going to pay somebody to put in software, what would you worry about? You’d worry
-about that maybe they don’t use it. So they then paid, on top of the $44k, $17k or something like
-that if you could verify that you’re using this software that they already paid you to buy. As I
-learned it, I was just agape. My mouth was like … I can’t believe someone tried this. It’s prone to
-failure by design. But if you’re out there trying to compete in that market … Back at that time, all
-
-
-the software vendors had tons of content, web pages, YouTube videos, about what? How to qualify
-for your payment? So rather than working on software, they were developing web pages and
-probably holding events, teaching you how you can collect this free money.
-Ezra Klein: It’s notable that during this period, Google had a big push to do online health records
-that would be owned by the individual, but hopefully could integrate with medical practitioners,
-and eventually they closed that whole thing down. It’s one of the things that Google made a big
-deal about and really tried. I actually played around with that system. It was not a bad system from
-my perspective. And it totally failed.
-Bill Gurley: One of the things as you go deeper on EHR, which I looked at, one of the problems
-you have is this large hospital systems growing and taking up smaller providers. Because if you’re
-a startup and you want to compete in EHR, you’re much more likely to break into small companies
-than to big ones, and the small ones are going away, so that’s a problem.
-The second thing is, if you talk … In my limited conversations with doctors, the majority of the
-features they’re worried about are the things that get them paid, so how well a system does billing,
-how well a system helps with collections. Those are the features they care about the most. Google
-probably brought a very different mentality to the table and it’s not what people are looking for.
-And this is my whole point about how the system is just designed and designed and designed to
-kind of grow and to get bigger on top of itself.
-Ezra Klein: So one of the things I thought was interesting when we talked a bit previously was
-that one of the things that made you optimistic that there might be change in the market, an opening
-in the market, was actually the Affordable Care Act.
-Bill Gurley: A feature of it, yeah. There were two features of it that I was most excited by. One
-of them was high deductible plans, which ironically is a feature that I think was not well disclosed
-and that consumers hated when they realized that it was real, but that’s a different issue. High
-deductible plans, and then the other one I really liked, which I don’t think will ever see the light
-of day, is the Cadillac tax. The reason I like the Cadillac tax is because it was the one feature that
-could start to push employers somewhat out of the system, but that one appears dead. You might
-know more than me.
-Ezra Klein: Yeah, it doesn’t look like it’s in good shape, but the high deductible plans part is
-interesting, because that really did happen, is happening. As you say, I do not think that feature
-was widely disclosed. I know many Republicans who say they oppose Obamacare because it stops
-high deductible plans from being out there. I often ask them, “You can have a $6,000 deductible
-in Obamacare, exactly how high do you want the deductible to go?” But the reputation of the bill
-is that it is pushing against high deductible plans when, in fact, while it does increase benefits that
-do need to be covered, it’s allowed for quite high deductible and, for that reason, also pushed
-toward very narrow networks.
-Bill Gurley: Yeah, narrow networks and high deductibles, which I think actually is the first thing
-I’ve seen that leads towards competition. Obviously when someone has a high deductible plan,
-until they hit that deductible amount, they’re spending out of pocket. So for the first time, perhaps,
-and I state broadly, that person’s heading out into the market as a consumer, which is not something
-they’ve done before. They’re spending out of their own pocket and they’re making a decision as a
-consumer. I think that that is causing very carefully on the margin some really interesting things
-to happen.
-Ezra Klein: So here to me is the meat of this discussion. It is the thing that I’ve been thinking
-about the most listening to the Obamacare debate, listening to the replacement of Obamacare
-
-
-debate, talking to you. As you say, Obamacare created these high deductible plans, these narrow
-network plans. Those plans did, in some cases, hold premiums further down, at least until recently,
-they had been estimated to be, and people hate those plans. They hate them. They do not want to
-have healthcare that is that exposed to the market.
-The thing that I think is a real challenge here for particularly folks who are looking to make this a
-more consumer-driven system is that if we have learned anything from Obamacare, it’s that what
-people seem to want is just peace of mind. They don’t want high deductibles. They don’t want to
-be out there shopping in this way. They want to know that if they get sick, somebody’s going to
-cover it the way they do in Medicare, which people like, the way they do in Medicaid, which
-people like. You get all of this reporting about folks who are in the high deductible plans being
-mad at the people who are poorer than them who get Medicaid.
-To me, the lesson of this has been … I was not a huge high deductible plans guy at any point, but
-the lesson of this has been it is going to be very hard to foist this on the public, then Republicans
-came and said, “The problem with Obamacare is these plans have overly high deductibles and
-we’re going to bring them down.” Donald Trump said, “We’re going to bring them down.” That’s
-not what their plan does, but when you have both parties now saying, “The problem with
-Obamacare is the deductibles are too high,” that to me says something about the plan.
-The reason I think this is important is there is this statistic that sticks in my head, it’s from the
-Federal Reserve actually, that about 46% of Americans say they do not have enough money to
-cover a $400 emergency expense, 400 bucks. So when you’ve got half the people in that position
-and health is so scary, that level of financial instability mixed with high deductible plans, that’s a
-very tough mix, the kind of thing that eventually is going to get people in the streets and say, “Hey,
-you’ve got to give me some relief from this. I need to not be so afraid all the time.”
-Bill Gurley: Let me try and separate two things. There are questions of policy and certainly if you
-ask people what they want, that list could grow infinitely, right? They’ll take everything they can
-get. If you ask, “Would you like more?” you’re always going to get an answer of, “Yes.” But let’s
-separate that for a second from the point I’m making, which is this hopefully not temporary, but
-maybe temporary, move to high deductible plans is driving change in the marketplace that is
-resulting in better care for consumers, from my point of view.
-I’ll go into that for a second. One of the places where high deductible plans are the highest is the
-state of Texas. In Dallas in particular, I happen to know, urgent care facilities are popping up left
-and right. These facilities have way more focus on the consumer and more entrepreneurialism than
-any general practitioner ever had. So there’s a pediatric care facility that’s open from 4:00 p.m. to
-midnight. Now, no doctor in our current system that I’ve ever been aware of has decided, “Oh, I’m
-serving children. They’re in school. We have parents where both parents work, maybe I should
-shift my hours to 4:00 to midnight.” That doesn’t happen in our current healthcare system. That
-happened in this system, though, because someone wanted to differentiate themselves from the
-next guy and consumers are paying out of pocket and making a choice. There is more parking
-spaces, it’s easier to pull up. They care about net promoter score, they measure the wait time in
-their facility, they ask for a review after the fact. And satisfaction levels are fantastic.
-I’d just separate the point you were making because the point I’m making is that a move towards
-creating shoppers is creating better care on primary care, just in terms of how we treat the
-consumer, and the consumers are opting into that and finding it interesting and effective.
-
-
-
-Ezra Klein: Let me ask you about why the high deductible plan is necessary for that particular
-kind of innovation. So backing up on how healthcare is financed, let’s say you got a plan with
-basically no deductible, so you’ve got first dollar coverage. Let’s just say something, a stylized
-Medicare plan. You still have to choose where you go and the places that are going to make money
-are the places that attract people to come to their office, right? I feel like the argument for the high
-deductible is it will make things that are cheaper, which I think is true. You deregulate airlines and
-you get cheaper airlines. You get Southwest, you get Spirit Air, you get stuff that in many ways is
-much more bare bones, but when people are paying their own money, they’re willing to make that
-trade offset.
-The kind of better care, higher quality care, you’re talking about, the thing where you go to the
-primary care facility and it’s beautiful in there, and it opens at 4:00 p.m. and it goes to 11:00 p.m.,
-even in a place where you’re not exposed to the cost, but they just need to attract the bulk of the
-people who have an insurance care, that feels to me like a perfectly reasonable system to
-incentivize that kind of pro consumer innovation.
-Bill Gurley: I would argue we haven’t seen that. These things that I’m seeing for the first time,
-and as a venture investor get excited about because it’s the kind of disruption that could lead to
-fundability, it is in my mind just happening here for the first time. So I don’t think our system has
-done that. I do think there’s a middle ground, though, to this, which is flexible spending accounts
-are first dollar is not out of your pocket, but you do care about the choice you’re making. Because
-you have a piece of the economics in the system. That’s a middle ground approach that could
-achieve both of what you want and what I’m talking about.
-Ezra Klein: It’s interesting, because that’s actually a very good bridge to … You brought up
-Singapore at the beginning of our conversation and I have a big obsession with the Singaporean
-healthcare system, too. Do you want to talk about how that system works from your perspective?
-Bill Gurley: The first thing I would say is this: The fascinating thing about Singapore is that they
-spend about 4% of GDP on healthcare and we spend somewhere between 17% and 18%. Based
-on the simplest measures that people calculate care, life expectancy, those kind of things, there’s
-no demonstrable difference, and people can certainly argue on the margin. My biggest … Like,
-my brain just can’t stop from wanting to go, “Oh, my God, they’re at 1/4 the cost, 1/4!” That is so
-dramatically eye opening that our first reaction should be, “We should study this until we can’t
-stay awake anymore, because it is so dramatically different in terms of cost relative to output that
-they must be doing something we don’t understand.”
-Instead, when you make this argument to people about Singapore, lots of people go, “Oh, but it’s
-a small island Asian country,” they start saying, “But, you shouldn’t look at it,” and I’m like,
-“Really? Someone’s doing something for 1/4 the cost we are and their reaction is to come up with
-reasons why you shouldn’t care about it?” We should just go nuts. We should be like, “Oh, my
-God, we should try everything they’re doing. Every single thing.”
-Ezra Klein: Also, to just build on that point a little bit, every Western European nation and also
-Canada and also Israel gets about … It’s about half of what we pay, it’s not as cheap as Singapore,
-but if we only managed to cut our costs in half, that would also be a big advance.
-Bill Gurley: Absolutely.
-Ezra Klein: So the idea that there is nowhere we can look for some kind of answer here seems
-pretty … It’s always struck me as quite bizarre.
-Bill Gurley: Yeah. So there are multiple parts to the Singapore system as you and I have discussed
-before. The one that I find most fascinating is they make everyone a payer. The way they do that
-
-
-… Except there is a social safety net at the bottom, but for the majority of the populace, depending
-on your income level, they will provide help from the government on a sliding scale percentage.
-So if you’re extremely well to do, you pay 80% of your bill, and if you’re down towards the lower
-income, you pay 20% of your bill, but everyone’s in the market shopping. I find that fascinating
-and I’m not as … And maybe this comes from the Goldhill camp, but I’m not surprised that that
-leads to better execution and cheaper care.
-Ezra Klein: So I’m going to give a little bit of a quick Singapore overview for folks who aren’t as
-read in on it, and if anybody would like to learn a lot more about this, they can search my name
-and Singaporean healthcare system. I’ve got a long explainer about this on Vox.
-Singapore is a system that conservatives love. Ross Douthat has called it “the marvel of the wealthy
-world.” Fox News had this op-ed that if we wanted to replace Obamacare, let’s copy Singapore’s
-miracle, and what conservatives tend to liken Singapore to is the insurance design. It’s a very
-unusual system. What they do is they have a forced saving account. So the Singaporean
-government basically diverts 7% to 9.5% of your wages into a compulsory savings account that
-you can only use for healthcare and, in fact, only use for the particular healthcare they let you use
-it for, which is interesting. It’s a little bit like a health savings account mixed with the Social
-Security payroll tax.
-Then they have catastrophic care, again provided by the government. You pay premiums. That’s
-got a roughly, in our dollars, $1500-ish deductible, and then there’s this meta fund sort of safety
-net at the very bottom. What conservatives like there is that you’ve got, as you say, Bill,
-everybody’s a payer. People are paying first dollar care out of their forced savings account, then
-they’ve got catastrophic care over that. You really have to shop. But the other thing, and this is I
-think such a key thing that gets forgotten or left out about them, it is otherwise a basically
-government driven medical system where the government decides pricing.
-So what you were saying about the rich paying 80-ish%, the poor paying 20%, that’s not happening
-through insurance, it’s happening because the government runs the hospitals and it separates them
-into these different wards and then it prices them based on how much subsidy you’re going to get,
-depending on your income. Drug companies, they can’t just charge what they want. If they want
-their drugs to be provided in those wards and if they want it to be eligible for that forced savings
-dollars, they have to price it at a level of cost effectiveness that the Singaporean government likes.
-So what Singapore is doing, which I think is so interesting and is a reminder that there are much
-more radical fusions of left wing and right wing ideas than people give credit for, is the government
-is overwhelmingly regulating both supply and prices to keep costs down. But then with those low
-costs is creating an insurance system where the average Singaporean is quite exposed to the cost
-and has a reason to shop. If you tried to do that with our level of costs, you would have to make
-people divert like 20% of their income, because those forced savings accounts are also for your
-kids, they’re also for your parents, and that would only pay for some of your care.
-To me, it’s a reminder that there may be more ways to cut this than people realize. That if the
-government was able to act as a price negotiator and get prices down, a lot of things would open
-up in how we design insurance, because people would not be so afraid of financial calamity.
-Bill Gurley: Look, as I said earlier, I think one of the problems is that people that favor one
-approach vilify all the others and, for me, it’s simply like, “Oh, my God, they’re at 1/4 our cost.”
-We should just do a mirror copy of the whole thing. I don’t know why you would pick pieces of
-it. Let’s just copy it. I’m not a policy person, but that’s my policy reaction.
-
-Ezra Klein: Just control C, control V Singapore?
-Bill Gurley: Yes.
-Ezra Klein: But this goes to something I think is hard for entrepreneurs, hard for the government,
-hard for anybody on either side of the aisle who wants to change anything, which is that people
-are very risk averse about their healthcare. They don’t want to change doctors. They don’t want
-things to change under them. They’re afraid, and rightfully so, right? When I am sick, the main
-thing I feel is fear, so I’m not saying … I don’t want to say people, I want to say me here. And this
-I think is actually a particular problem in some ways potentially for Silicon Valley. There’s a
-culture in Silicon Valley that moves fast and breaks things, right? That’s the old Facebook motto.
-You have a culture like Uber that sort of bum rushes regulators in ways that allow them to make
-big gains in territory, but really piss people off.
-I think folks are maybe open to that in places like social networks or even ride sharing, but if you
-tried to do that in healthcare or if the government tries to do that and takes away what people have,
-promising they’ve got something better, folks get real angry and it only takes one or two bad
-experiences, one or two people who really have something bad happen to them, to end that real
-quick.
-Bill Gurley: One thing I would say to that is I don’t think there are any opportunities to disrupt
-healthcare in that type of way, simply because the amount, the shear force of inertia, the amount
-of regulation that exists, there’s no way for someone to rush in and disrupt at that level with kind
-of hackneyed solutions. I don’t think it could happen. It does pose the question, though, that if
-your assertion is right, that aversion to change is so high that we’re just never going to get a shot
-on goal, then we might be stuck. You might be able to do this podcast 80 years from now and have
-all the same discussions.
-Ezra Klein: I kind of worry I will be able to. Hopefully I’ll be well enough to do this podcast in
-80 years, and that would be a real triumph of the healthcare system.
-Bill Gurley: Let me make this assertion, which I think is, especially if we’re on an 80-year time
-window, I think China is going to be a really interesting thing to watch. I have this theory that
-democracy and capitalism will destroy one another if you give them enough time, and our most
-regulated industries are ones that are least open to disruption, so healthcare, finance, telecom, and
-what ends up happening is the incumbents end up writing the rules and you kind of bog down.
-China and Singapore, by the way, are nondemocratic capitalistic societies, and so it’s actually
-easier for those types of governments to make wholesale change than it is in our case, so they can
-make the types of systems that we’ve been talking about, or they could decide to mirror Singapore
-or whatever, and everybody just kind of has to take it.
-But the other thing you have in China, so you haven’t had much of a healthcare system and so you
-don’t have this regulatory framework that makes it very difficult for new entrants or disruptive
-entrants, but you’ve got really successful and talented entrepreneurs. I think you’re going to see
-some failure like you talk about because there is less regulation, but I think you’re also going to
-see some amazing innovation.
-I am friends with a couple of venture capitalists over there and things like second opinion via
-telemedicine, those things are happening there way faster than here. There’s a whole network of
-specialists in the big cities that do second opinion over telemedicine with doctors that are in the
-rural areas for the customer, which is a practice that doesn’t even exist here. People say, “Why
-isn’t telemedicine or email more active here?” Well, they don’t know how to bill for it and so it
-doesn’t happen. Doctors don’t do it because they can’t bill for it. Eventually figure out how to bill
-
-
-for it, and then you’ll have a telemedicine with your doctor and 80% of the time, you won’t need
-to go into their building anymore. But that’s going to happen slower here than there, precisely
-because of where we find ourselves. So that will be interesting to watch.
-Ezra Klein: Tell me more about your theory that democracy and capitalism will eat each other.
-Why will that happen?
-Bill Gurley: Well, industries get more regulated and incumbents write the regulation. Let’s take
-one of the healthcare things, let’s take HIPAA. Every single consumer thinks HIPAA was written
-to protect them, from my perspective. HIPAA is an extremely dangerous policy in a day and age
-where we have the communication tools that we do. I’ve got a friend who’s an ER doctor and if
-he’s in the middle of an emergency situation and he’s got a friend that has the answer and he texts
-him and asks for help, that’s a HIPAA violation, like $50,000 fine. Now my friend does it anyway
-and if your mother were on that table, you’d want him to do it anyway. But you’re not supposed
-to do it … And, by the way, they have HIPAA audits. So there are people that are paid to provide
-HIPAA audits where they come around and test your systems, so all this HIPAA this and HIPAA
-that and, by the way, when Britney Spears’ data got disclosed, HIPAA audits tripled at this guy’s
-hospital, so it’s nice to know that Britney caused such care.
-When you want to build a new system that heightens communication so maybe you can get the
-better answers faster, you run into HIPAA front, left, and center. Epic, who’s the largest healthcare
-system tool, EMR company out there, is notorious for not integrating with people. I’m certain one
-of the reasons they claim they don’t have to is because they hold up HIPAA and say, “No, can’t
-do it.” These regulations people think are written to protect themselves are written to protect the
-system. This isn’t an argument that all regulation is bad, it’s just how it matures over time.
-Ezra Klein: Yeah, I certainly think there’s something to that.
-Bill Gurley: I’ll give you a non-healthcare version real quick.
-Ezra Klein: Yeah, please.
-Bill Gurley: I was a backer of a company called Tropos that we sold, but they provided tools to
-let a city bathe their city in Wi-Fi. Obviously you think about why a mayor might find that to be
-interesting, to bathe the city in Wi-Fi. We found tons of mayors that were interested in doing this,
-and I think it’s simple to make the argument that a mayor or city might choose to build a port or a
-railroad or a highway, why wouldn’t they also build a digital highway if they wanted to for their
-constituency? But, over the years, the telco companies and the cable companies have written law
-after law after law to make it illegal for that mayor to do that.
-If those laws didn’t exist when we would get a mayor excited about it, an AT&T lobbyist would
-show up in the smallest of places and start lobbying against this from the government. Our ability
-to provide competitive Wi-Fi services through a city, which seems to be, based on that narrative I
-just used, seems to be something they should be able to do, is blocked by the broader government
-through rules that were written by the incumbents.
-Ezra Klein: So then given these facts, and I agree with you, that healthcare is a place of many,
-many, many rules and many of them at this point outdated or not helpful to new entrants, and I
-think we said earlier that this is not an area ripe for overwhelming disruption. What are the layers
-of healthcare that you think are open to entrepreneurs? What are the spaces in the sector that you
-think people listening or who are already out there could profitably begin to hack away at in a
-useful way?
-Bill Gurley: Well one thing that happens, and I want to talk about it because we’ve actually made
-some bets, so I’m not 100% a pessimist here. I do believe that there are opportunities. One of the
-
-things that happens is a lot of startups get pulled into the system and that’s unfortunate, because it
-turns out that when you’ve got this thing that’s 18% of GDP and you start following the money
-flows, you enter a market in one place with a very altruistic notion that I’m going to change things,
-and ask things morph, it turns out you’re actually just helping the system get bigger and helping
-people collect, if you will, as a leach against the system.
-There was a startup that I met with that was in the messaging space and I’m fascinated by
-messaging just because I think if there were more communication among everybody, it should lead
-to a more efficient world. I started asking, “What is it you’re providing? What type of messaging
-and how much do you get paid for it?” And they said, “We get paid $50 a message.” I’m like, “$50
-a message? are like a penny. How could you get paid for that? What are you doing?” And he was
-connecting these rehabilitation centers with hospitals and it turns out the way our insurance has
-evolved, a hospital can move someone to a rehabilitation center and keep charging. And I said,
-“Well, what do you tell them?” And he goes, “When 30 days are up.” And I said, “Why 30 days?”
-And he said, “Well, that’s the limit to which you can get reimbursement against this type of
-facility.” This entrepreneur I’m sure started out thinking I’m going to make the system better, but
-all they were doing was helping the hospital maximize what they could charge. And I think that
-kind of stuff happens all the time.
-Anne from 23andMe told me that she went through a similar journey when she decided to go into
-healthcare and she just noticed startup after startup that entered the system hoping to help, but
-when you follow the money flows and start trying to get paid, you find you’re actually making
-things worse. I don’t want to fund anything like that, just because … And it’s not like I have some
-kind of moral high ground, that’s not interesting to me, to make it worse. I want to hopefully be
-part of something that makes it better.
-Ezra Klein: So then to go back to the question, what are the layers of this that you think are open
-to being made better?
-Bill Gurley: This notion that I brought up, which we used the phrase “the consumerization of
-healthcare,” I think that’s starting to happen. I think consumers have lived through this
-transformation in other industries. Banks were notoriously open from 9:00 to 3:00. Banker hours
-is a metaphor that young kids probably won’t even know what it means anymore, right? But it’s
-because banks used to not have to be competitive with one another and they had rules that didn’t
-really think about the customer the way a normal business would. I think that trend is starting to
-change. We’ve made a few bets that relate to that.
-One of them is a company called One Medical, which we’ve been an investor in for probably four
-or five years now, and One Medical is a premises-based healthcare provider. This isn’t a software
-company, although they have software tools. It is literally like Starbucks. They have to put one of
-these up. They focused on urban areas, so they’re downtown near your place of work rather than
-being near your home, they have a 24-hour appointment policy and I think a one-hour email
-response policy, and people love it. It turns out that it doesn’t take that much convenience to stand
-out like a sore thumb versus what people have grown to expect.
-Ezra Klein: Let me ask you something about that model really quickly, because I know One
-Medical well and I actually think they are a fascinating company. That seems to me to be almost
-the opposite of the high deductible consumerization of medical care. One Medical is you pay more
-on top of your insurance. They have a lot of people who have employer insurance, including a lot
-of people I know, you pay more on top of what you’re already paying for insurance to get better
-service, which is great, right? One should be able to pay more to get more, that’s all fine. But it
-
-does not seem to be the folks with the very high deductibles in Obamacare. That doesn’t seem to
-be where that’s going to lead.
-Bill Gurley: Yeah, and as I said, we made this investment three or four years ago and that was
-purely a bet that a number of consumers want something more than what they’ve been getting
-from their healthcare system. So last week we announced an investment in a company called Solve,
-which is very new. They just kind of took the covers off for the first time, so it’s early, but they’re
-fitting more to what you’re talking about. They’ve built a network, a marketplace, on top of these
-urgent care facilities and so this is more like OpenTable or Grubhub or Zillow, and it’s a curated
-set of these people that are operating with full price transparency and have this desire to kind of
-be competitive from a consumerization standpoint.
-Like I said, they measure wait times, they want you to be able to come in right away. I think of all
-the bookings that we’ve taken, 80% of them have been within a two-hour window. So no one
-thinks about seeing their general practitioner unless it’s a complete emergency within a two-hour
-window, but the majority of people that book through Solve are doing it within two hours. So it is,
-trying to put this network layer, you can do things like check in ahead of time as opposed to show
-up and get handed the large clipboard full of papers to fill out because they know you’re going to
-wait anyway. In this case, you can get that all done up front. So you walk in and get seen and, by
-the way, after you’re done, you get a communication asking you to review that the actual
-practitioner wants to see, because they measure NPS scores, which I had talked about in the past.
-This is early. That’s operating just in Dallas right now, but I anticipate that there’s going to be
-enough competitive providers who are willing to operate with that type of expectation that we’ll
-be able to build this nationwide.
-Ezra Klein: Let me ask you something about the broader thinking around both of these, which we
-were talking about a little bit earlier around the Houston primary care example, too, which is I
-don’t understand really why any of these were not viable businesses in a non-high deductible care
-model. These are all adding convenience by, I assume, taking a little bit of cut, so in some way
-like raising price at least a little bit, which is not necessarily a bad thing in this case, but adding
-convenience onto the system we already have. I think it opens this question of why the system just
-hasn’t had at least more of a demand around quality than it’s had.
-I expect what’s going to happen with the high deductible world is people are going to accept less
-convenience and less quality. Again, it’s going to go in this direction of, if the regulators allow it
-and this is certainly what Republicans want to do by accelerating the deregulation of very, very
-narrow network, very, very high deductible plans that don’t cover that much and so on and so forth
-because they’re just too expensive. But this stuff, people have always had the ability to pay a bit
-more to get something a little bit better and it’s been a system resistant to it in large part because
-people seem very resistant to change and very set in their habits. They go to the same doctor for a
-long time, etc. What do you think here is changing? It feels like it may be something different than
-what we’re talking about.
-Bill Gurley: It’s totally plausible that they’re disconnected, that the time has come and these tools,
-by the way, because if you look forward, this telemedicine piece for these type of providers is
-going to become a big piece of it, because there’s just more convenience for the consumer that’s
-possible. Maybe it was just the time is right. I happen to believe that having high deductible plans
-out there or even people that opt out that are paying the penalty, they’re shoppers, too, put more
-people into the frame of mind where they’re making those choices.
-
-
-Look, there’s also narrow networks and there’s many Kaiser clones popping up. There’s one called
-Scott & White in Texas that’s really impressive. It’s their own narrow network and they’re actually
-literally listing plans on the exchange. So they’re a wholesale carrier provider all in one package,
-and they are competitive from a convenience perspective, too. Maybe we’re just seeing a whole
-bunch of alternatives pop up, some of which are driven by this consumerization piece and that’s
-causing choice, and people are opting into it.
-Ezra Klein: Let me give you my theory. I think that some of this, and I think One Medical is a
-good example of it, is we are getting a culture into a different kind of convenience. You used Open
-Table and Grubhub, which I know are different than the new thing you funded, but I do think are
-beginning to habituate consumers to that kind of experience, so people are beginning to both expect
-it and feel more familiar with it when it comes around.
-But the place that I’m curious if you looked into when you were doing your research is you’ve had
-the Apple Watch and Jawbone and all these different things that are essentially bioinformatics that
-you wear on you and right now, they’re sort of fun things for the fitness set, right? They’re for
-people who are pretty healthy already and enjoy tracking their sleep and quantifying their life and
-all of that. But it’s not too hard to imagine some of these things that are much better at helping
-folks remember to take their medications, for instance, right? A huge issue is drug adherence,
-particularly for people who are forgetful or who have mental health issues. Something on the wrist
-that was really good and simple at making sure they took their medicines, or at least reminding
-them to do it, could make a big difference.
-You could imagine things that, I don’t know the science of this that well, but there are early
-markers of things like heart attacks and possibly there are things people could wear that would
-help alert them very early. If you had a very at-risk population, maybe that would help. That feels
-to me like where the technology might really make a big difference and both drive down costs and
-drive up quality pretty dramatically. Did you see stuff?
-Bill Gurley: Yeah, there’s a lot of stuff like that. Most of it’s targeted at acute care, so you’ll see
-startups like that targeted at cardiovascular issues or diabetes or things like that. They all struggle
-with how do you lean against the American healthcare system? Some of them end up trying to sell
-these solutions through the self-insured employer, which we already talked about is a kind of really
-non-optimal way to get out there. Some of them are trying to create the right to bill for a digital
-solution. It’s very new ground, so if I build an app and a wearable device that if I use, I’ll monitor
-my diet better and, therefore, I’ll reduce my carbohydrate intake and diabetes will improve, getting
-our insurance carriers to accept paying for that app or service as a billable thing is non-trivial. And
-there are startups trying to do that right now.
-It’s not the type of bet we’ve made historically, because it’s dependent on your ability to get that
-acceptance, and I don’t know if that will happen or not. It may happen. We may see digital
-solutions become billable prescriptions. There are a number of startups trying to make that happen.
-Even if that technology can be helpful in that way, you still have to figure out a way to get charged
-in the US healthcare system, which is non-trivial.
-Ezra Klein: Let me then ask you, I’ve taken up enough of your time here, the question we use to
-close out this podcast, which is what are a couple books on healthcare or anything else that you’ve
-read that have influenced you that you would recommend to the audience?
-Bill Gurley: As I mentioned, the Catastrophic Care by Goldhill I would read on healthcare. Most
-of the other books I’ve read recently you’ve already had podcasts with the authors, like Sapiens I
-
----
-
 # “Customer First” Healthcare
 
 December 18, 2017: The subject of the “consumerization of healthcare” has been around for many
@@ -6663,12 +5539,6 @@ comes first. This powerful trend will gain momentum as it builds, will reshape t
 landscape, and will result in the launch of many new and exciting companies.
 
 
-
-
-
-
-
-
 One overt sign of a lack of traditional market forces is any industry where basic customer service
 is not a requirement to stay in business. If you asked 100 people to name a place where you
 frequently wait, even when you are on time for your appointment, how many would say the
@@ -6682,8 +5552,6 @@ banks decades ago. This is clearly no longer the norm as competition eventually 
 reality. My local bank is now open 9am-5pm (including Saturdays), and of course, the adoption of
 ATMs gives us access to cash 24 x 7. All banks have been forced to respond to the new customer
 expectation, driven by competitive forces. That same shift is now coming to healthcare.
-
-
 
 
 In their marvelous book, Lean Solutions, James Womack and Daniel Jones unpack what it means
@@ -6725,8 +5593,6 @@ modern service excellence is “Don’t Waste My Time.” They raise the hypothe
     TECHNOLOGY TO THE RESCUE?
 
 
-
-
     One obvious solution to this list of issues and opportunities is to leverage technology to better
     serve the needs of the customer. Unfortunately, a deep dive into the large and complex market for
 
@@ -6748,8 +5614,6 @@ reason these technologies go unadopted is because doctors simply do not know how
 them. The problem is primarily an absence of easy reimbursement.
 
 WHO IS THE ACTUAL CUSTOMER?
-
-
 
 
 Despite widespread belief to the contrary, the U.S. healthcare system does not operate as a free
@@ -6896,18 +5760,12 @@ efficiency. Most employers would opt out of providing health insurance if they c
    arrives full throttle in healthcare.
 
 
-
-
                             CVS CARE CLINIC PRICE SCHEDULE:
-
-
 
 
     BENCHMARK HEALTHCARE INVESTMENTS
     Our venture capital firm, Benchmark, has made four investments consistent with the “customer-
     first” theme.
-
-
 
 
 •                                 Brighter — Brighter is a cloud-based health insurance platform that
@@ -6953,8 +5811,6 @@ efficiency. Most employers would opt out of providing health insurance if they c
     provide the service.
 
 
-
-
 •                                Stitch Health — Our most recent healthcare investment, Stitch is a Y-
     Combinator seeded SaaS company that serves as home base for healthcare teams that aim to deliver
     customer-first healthcare. The company is HIPAA-compliant, cross-platform (desktop, iOS, or
@@ -6979,8 +5835,7 @@ efficiency. Most employers would opt out of providing health insurance if they c
 ---
 
 
-
-<!-- PAGE BREAK -->
+---
 
 # Part V: Leadership and Governance
 
@@ -7207,8 +6062,6 @@ I would also suggest that anyone that is trying to keep up with
 December 1, 2008:
 
 
-
-
 “People see you having fun
 Just a-lying in the sun
 Tell them that you like it this way”
@@ -7237,7 +6090,6 @@ What is driving our enthusiasm to be optimistic while the general perception is 
 
 1) We make money investing, not sitting on our money. Innovation and disruption are constant
 and not subject to the whims of the overall economy.
-
 
 
 2) We believe that environments like this tend to sort out the true entrepreneurs from the
@@ -7328,8 +6180,6 @@ because they put strict limitations on the trading capability of the institution
 themselves “illiquid”.
 
 
-
-
                                                    Asset allocation is a well-studied area within the
 field of finance. A prototypical U.S.-based asset allocation model might allocate 25% to U.S.
 stocks, 30% to U.S. debt, 25% to international equity and debt, and let’s say 20% to all alternative
@@ -7351,12 +6201,6 @@ simultaneously adopted this higher-risk, higher-return model. (For a more detail
 this evolved and why, see Ivy League Schools Learn a Lesson in Liquidity and How Harvard
 Investing Superstars Crashed. For an even deeper dive including comparative asset allocation
 models see Tough Lessons for Harvard and Yale.)
-
-
-
-
-
-
 
 
 Contributing to this dynamic on the field, the early movers to this model were able to post above-
@@ -7482,8 +6326,6 @@ February 8, 2010: American journalists and corporate executives have been slow t
    fascination that would never spread to the West. They never fully understood it.
 
 
-
-
    As a result of this headstrong denial, I have often wondered what data point would finally convince
    me that the West had fully accepted the reality of the virtual goods business model. Last week I
    received my answer. Jeff Grabow from Ernst and Young asked my partner Mitch Lasky and I to
@@ -7556,12 +6398,6 @@ February 8, 2010: American journalists and corporate executives have been slow t
 
 ---
 
-# Steve Job’s Remarkable Value Creation
-
-
-
----
-
 # Grubhub and Seamless: Effecting The Elusive Private-Private Merger
 
 May 20, 2013: Today, Seamless and Grubhub announced the signing of a definitive agreement to
@@ -7570,8 +6406,6 @@ institutional investor in Grubhub, we were actively involved in the merger proce
 quite excited about the potential of the two companies coming together. There are many synergies
 – different geographic strengths, different core customer bases, and different product strengths.
 And of course, we are afforded the advantage of greater scale.
-
-
 
 
 Despite that there may be many obvious reasons for any two companies to combine, most private-
@@ -7699,8 +6533,6 @@ margin advantage. Dell’s product offering advantage, building to custom order,
 created a business model advantage.
 
 
-
-
 Stitch Fix’s personalization technology creates a very similar dynamic within women’s fashion.
 Through a better understanding of the customer, and using data to predict future orders, Stitch Fix
 has an engine that simultaneously better serves the individual desires of the customer and also
@@ -7823,56 +6655,6 @@ the path to $1B. A longer track record and larger assets under managmen
 
 ---
 
-# Welcoming Jason Kilar, Richard Tom and the Vessel team to the Benchmark family
-
-June 24, 2014: Today Benchmark is excited to announce that we will be partners with Jason Kilar
-and Richard Tom on their next exciting project — Vessel. Working with amazing entrepreneurs is
-the number one reason we enjoy venture capital, and rarely do you have the opportunity to work
-with a team that has a track record like these two. While they are not planning to disclose any
-specifics today about the company, you can rest assured that they plan to bring their amazing
-product instincts and cultural leadership that were at the heart of Hulu’s success.
-We are also excited to be
-
----
-
-# Meet Benchmark’s New Partner: Eric Vishria
-
-July 23, 2014: Today Benchmark announced that Eric Vishria has joined us as a General Partner.
-Eric is one of the up-and-coming stars in the technology industry, and we are very excited he is
-becoming our partner. In Benchmark’s team dynamic, character and attitude really matter. Eric’s
-keen intellect, his experience as an entrepreneur and CEO, his depth in infrastructure and enterprise
-software, and his infectious optimism about technology make him an ideal Benchmark partner.
-Eric demonstrated a unique passion for startups and entrepreneurship from an early age. After
-graduating from Stanford in mathematical and computer science when he was just 19, Eric joined
-the newly-formed enterprise software company Loudcloud (which became Opsware in 2002). Eric
-rose quickly, and by the age of 26 he became Opsware’s Vice President of Marketing, remaining
-in that role through the company’s acquisition by HP in 2007. He stayed briefly at HP as a vice
-president.
-In 2008 Eric co-founded his own startup, RockMelt, and ran the company as CEO until its
-acquisition by Yahoo last year. We followed Eric’s adventure as founder and CEO at RockMelt as
-he worked through the roller coaster of a startup. While RockMelt may not have achieved all of
-its intended objectives, it gave us a window into Eric’s true character. We admired his courage,
-relentless optimism and sense of commitment to his mission. He never gave up, ultimately finding
-a home for the company and a fair outcome for his employees and investors. Our friend and mentor
-the great Bill Campbell knew Eric through this lens and was a huge advocate for his candidacy
-here at Benchmark.
-One of Benchmark’s core principles is the power of a fully equal partnership. Every one of our
-general partners, regardless of track record or seniority, has equal ownership in the firm and an
-equal stake in its future. We believe that this promotes teamwork, minimizes politics, and most
-importantly allows us to deliver the power of the entire team to the entrepreneurs we serve. It also
-allows us to recruit the best possible partner candidates, like Eric Vishria, early in their careers and
-allow them to dedicate many years to refining their craft as venture investors and board members.
-We believe that successful early-stage venture investing is just that: a craft. It is a service-oriented
-business, not an industrial process that can be scaled. It requires investors to work diligently on
-the boards of startups, providing advice and counsel and supporting the visions and dreams of
-entrepreneurs. Eric expects to spend the majority of time investing, among other things, in
-enterprise and infrastructure companies. As Eric said to us, he is addicted to the energy of working
-on ambitious ideas with amazing people, and can’t wait to get started.
-Any success that Benchmark has had over the years has been the direct result of partners working
-together as a team to support entreprene
-
----
-
 # Can you take me Higher? To a place with golden streets” — Creed, Higher
 
 January 30, 2015: In their seminal 1994 book Built to Last: Successful Habits of Visionary
@@ -7894,8 +6676,6 @@ of both the original tagline and the new mission statement is the word “everyo
 Uber to serve everyone it is critical that Uber not only achieve price leadership, but that the
 company continually search for new ways to deliver transportation at lower and lower price points.
 This goal – to deliver the highest possible value to the customer – is a key catalyst for UberPool.
-
-
 
 
 DELIVERING MORE VALUE TO CONSUMERS THROUGH LOWER PRICES
@@ -7942,8 +6722,6 @@ utilization, and then another incremental price decrease. Pretty quickly UberX p
 to become the highest volume service on the Uber platform.
 
 
-
-
 GETTING AHEAD OF THE GAME
 Uber repeated this circular pattern so many times in so many different cities that some cities
 witnessed more than six price cuts in a brief two-year period. While these highly successful
@@ -7967,8 +6745,6 @@ evolution after UberX and UberX price optimization.
 This program is already up and running in San Francisco, New York, and Paris, and the company
 is already seeing habitual behavior with many riders using UberPool on the same route, five days
 a week.
-
-
 
 
 The idea of UberPool may seem simple, but the implementation is unquestionably not. If you
@@ -8038,20 +6814,12 @@ strategy, business model, and competitive differentiation is required for many c
 will                   do                     as                    a                    company.
 
 
-
-
 Can you raise money without a standard slide presentation? Sure. Can you have a great investor
 meeting that is purely conversation? Absolutely. But it is important to separate the possible from
 the optimal. If you are the next Google and everyone knows that you are in the driver’s seat, you
 should certainly do as you please. But if you are one of the thousands and thousands of startups
 that merely want to have an optimal fund raising process, I highly recommend that you develop a
 killer presentation.
-
-
-
-
-
-
 
 
      Here are six reasons why good presentation decks are impactful:
@@ -8110,12 +6878,6 @@ killer presentation.
    practice, you risk leaving the impression that either (a) you don’t have the skills to produce a killer
    presentation, or (b) you are simply indifferent to why it is important. Neither is a good impression
    to leave with investors.
-
-
-
-
-
-
 
 
 There is one situation where meeting without a presentation deck is warranted. If you have never
@@ -8437,8 +7199,6 @@ performance of the different investors in the ecosystem and make decisions about
     diversification or “look-back” feature to provide downside protection.
 
 
-
-
    Obviously the LPs can just say “no” to participating in the SPV (even though they may feel the
    pressure of obligation from the fund). This is likely the smart move. First, someone is asking you
    to write a check at the exact time everyone else is overcommitted. Hey, come help us out, we are
@@ -8481,7 +7241,6 @@ performance of the different investors in the ecosystem and make decisions about
    level “gross merchandise value” or “multi-year forward bookings” and try to talk past things like
    true net revenue, gross margin, or operating profitability. They will even claim to be “unit
    profitable” when all they have really done is stopped being gross margin negative. These
-
 
 
 companies will one day need real earnings and real profits, and if the company does not proactively
@@ -8529,38 +7288,6 @@ environment. Loose capital allows the less qualified to participate in each mark
 
 ---
 
-# Benchmark’s New General Partner Sarah Tavel
-
-May 9, 2017: The partners at Benchmark are excited to announce that Sarah Tavel has joined the
-firm as our newest General Partner. We define ourselves by a love for the craft of early stage
-investing, and Sarah’s career-long desire and commitment to be one of the world’s great venture
-capitalists make her an ideal addition to the Benchmark team.
-About a year ago, we asked our venture partner Scott Belsky who he thought had the greatest
-potential to become one of the best investors of the next decade. He answered quickly and
-definitively: Sarah Tavel. We’ve gotten to know Sarah over the last year. While we only very
-recently revealed our interest in having her join us, our interactions with her over the year amplified
-our instincts. She especially impressed us with the speed and quality of her thinking around
-disruptive markets, her ability to influence others with her ideas, and the depth of the relationships
-she has forged.
-Throughout her career, Sarah has shown a remarkable ability to spot new companies and markets,
-and to develop deep bonds with extraordinary entrepreneurs. Early on, at Bessemer Venture
-Partners, she helped source and pursue companies as varied as Pinterest and GitHub well before
-they were broadly understood. Not only did she identify these phenomena before others, she left
-long-lasting impressions on the founders of both companies. In fact, Ben Silbermann thought so
-highly of Sarah that he recruited her to Pinterest to lead core parts of the product and business after
-the Bessemer investment. The experience of helping scale Pinterest through a period of explosive
-growth is an incredible resource for the founders on whose boards she will serve in the future.
-Most recently, Sarah worked as an investing partner at one of the great venture capital firms,
-Greylock Partners, working with some of the sharpest product minds in the business.
-Beyond her impeccable resume, from our earliest interactions Sarah demonstrated an investor
-mindset that just felt consistent with our own. Our small, focused team approach relies on open
-debate, advocacy, and working together to support the entrepreneurs we serve. Each partner at
-Benchmark needs to bring a unique perspective while simultaneously enhancing the overall
-functioning of the team. It is clear that Sarah will get in front of breakout companies early,
-challenge our thinking on new markets, help us make sharper decisio
-
----
-
 # Thinking of Home: Dickinson, Texas
 
 September 6, 2017: For those of you who have moved away from the town where you grew up,
@@ -8568,8 +7295,6 @@ the few times that you see your hometown in the national news creates an enormou
 Over the past few weeks, the town I grew up in, Dickinson, Texas, has been front and center in the
 national news, but for all the wrong reasons. Dickinson, a small town southeast of Houston on
 Galveston Bay, has been one of the hardest hit communities by Hurricane Harvey.
-
-
 
 
 I became a resident of Dickinson for the same reason many of my childhood friends did. My father,
@@ -8589,8 +7314,6 @@ Beautiful. In 1992, she was recognized nationally for her leadership in the H.O.
 receiving the Betty Scharff Memorial Award, and in 1994 was recognized by the local Chamber
 of Commerce as Citizen of the Year. Most significantly, she served as a councilwoman on the city
 council for 11 years, and upon retiring was recognized for her efforts in the local newspaper.
-
-
 
 
 Although it does not appear that either were as devastating as Harvey, our family lived through
@@ -8615,43 +7338,8 @@ Dickinson also has the resources it needs to rebuild. If anyone else is interest
 
 ---
 
-# Benchmark’s Newest General Partner Chetan Puttagunta
-
-July 9, 2018: The partners at Benchmark are pleased to announce Chetan Puttagunta has joined
-the firm as our newest General Partner.
-As early-stage investors, we are acutely aware of the work of other venture capitalists on the boards
-of the companies we serve. Nearly 15 years ago one of Benchmark’s founding partners, Kevin
-Harvey, saw the skills of a young Peter Fenton on a board they shared. Peter’s work so impressed
-Kevin that he recruited Peter to join Benchmark.
-More recently, Peter encountered a once-in-a-generation venture capitalist on the board of Elastic,
-Chetan Puttagunta. In every way, from how Chetan discovered the Elastic opportunity by
-downloading the product and using it, to how he built a deep trusting relationship with the team,
-he demonstrated the qualities that define Benchmark and our aspirations to serve entrepreneurs.
-Chetan’s energy and devotion, his capacity to listen and to provide crisp, well reasoned advice set
-him apart in that elusive way that leads him to be a CEO’s first phone call.
-In addition to Elastic, Chetan, at just 32 years of age, has developed a foundation of successful
-investments and relationships in the software ecosystem. He led the investment in Mulesoft
-(acquired by Salesforce for $6.5B) and MongoDB (NASDAQ: MDB). Those founders and CEOs
-called Chetan “the MVP of our board” and said that, “despite being nearly 20 years younger than
-everyone else, Chetan managed to deliver insights no one else had.” As the Benchmark partners
-got to know Chetan better, it became clear that his infectious curiosity, analytical rigor, and
-boundless energy to serve entrepreneurs fit perfectly with our culture. And Benchmark’s structure
-– now seven equal partners – means Chetan joins with the same authority, responsibility and
-ownership as the current partners. We believe Chetan will invest in many of the best enterprise
-companies of the next decade. And perhaps, he, like Kevin and Peter before him, will spot a future
-Benchmark partner on one of those company boards.
-Our job, as early-stage venture capitalists, does not scale. It is defined by service to entrepreneurs
-and the teams they build, helping them to realize their vision and the potential of their companies.
-Whether it is recruiting a key executive, making a strategic decision, or taking a company public,
-productive and honest dialog between a CEO and a board member can contribute considerably to
-outcomes. While many venture firms have adopted a stage-agnostic approach, or have hired junior
-or role-defin
 
 ---
-
-
-
-<!-- PAGE BREAK -->
 
 # Part VI: Lessons from the Wreckage
 
@@ -8743,8 +7431,6 @@ competing with a completely “open” strategy would offer very little room for
 there is almost a necessity to have some closed proprietary advantage. It is difficult to criticize
 companies for trying to innovate in a proprietary manner. After all, survival is instinctive.
 Principle 5: It is very difficult to have open standards for complex products.
-
-
 
 
 For extremely complex products, it is simply too hard to coordinate activities across multiple
@@ -8981,7 +7667,6 @@ predicted future cash flows discounted back through time, as appropriate for ris
 Microsoft generated nearly $16B in operating cash flow and will likely do more than that in fiscal
 2004. Neither the choice of equity compensation nor any decision to recognize such offering as a
 GAAP expense will have any measurable impact on this cash flow. New grants of either options
-
 
 
 or restricted stock will represent future dilution, and the company will need to earn a return above
@@ -9222,7 +7907,6 @@ the minds of all companies that have something to lose; primarily browser-based 
 incumbents. The stakes are quite high, and it may even be too late.
 
 
-
      As we transition from one world to another the rules are changing under out feet. The development
      tools are different, and the development objectives have changed. The distribution techniques are
      completely new. On the browser, SEO and SEM are paramount, but the equivalent tools on mobile
@@ -9339,8 +8023,6 @@ to build such a program, it would be much harder for each and every company to b
 own. Also, if these programs are run independently, you fail to develop incremental leverage from
 understanding the unique skill sets of each and every researcher, and the incremental company will
 have a harder time attracting researcher interest.
-
-
 
 
                                            Enter HackerOne, a shared community marketplace that

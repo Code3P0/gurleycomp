@@ -333,26 +333,6 @@ business model neede
 
 ---
 
-# DVD Glut
-
-July 12, 2005: I can’t help but wonder if the recent news at Dreamworks and Pixar is in some way
-related to the Internet, Tivo, and other disruptive technologies. Could it be that people are
-watching Shrek 2 on Tivo and saving that on Tivo for future viewing? Could it
-
----
-
-# Techdirt: The Fake Broadband Price War
-
-
-
----
-
-# BAILOUT what?
-
-July 22, 2008: I
-
----
-
 # Google Redefines Disruption: The “Less Than Free” Business Model
 
 October 29, 2009: [Follow Me on Twitter]

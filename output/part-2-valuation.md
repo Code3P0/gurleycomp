@@ -162,17 +162,6 @@ So what’s the best model? Perhaps it’s a blend
 
 ---
 
-# More IPO News, Ancestry.com Files S-1
-
-August 4, 2009: For those of you that get the subscription VentureWire emails, you may have
-noticed the subtitle today “Recent buyout-backed IPO activity is a positive sign, but don’t expect
-any VC-funded IPOs anytime soon.” It also included the equally pessimistic, “…but doesn’t expect
-any venture-backed companies to price before Thanksgiving.”
-For the life of me, I cannot figure out why the press is so feverishly pessimistic about the IPO
-market. In 2009, no major company IPO filings have been pulled. Moreover, all five compa
-
----
-
 # Google’s Acquires ITA: Will Deeper Vertical Integration Lead to Higher Revenues?
 
 July 8, 2010: “It’s funny how fallin feels like flyin,

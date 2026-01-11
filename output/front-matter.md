@@ -55,7 +55,6 @@
 
 - Internet Investors: Beware of the Proxy Valuation (1998)
 - When It Comes to Pricing Software, the Greener Grass Is Hard to Find (2001)
-- More IPO News, Ancestry.com Files S-1 (2009)
 - Google’s Acquires ITA: Will Deeper Vertical Integration Lead to Higher Revenues? (2010)
 - On Google, Growth, Pricing Power, and Valuation Multiples (2010)
 - Silicon Valley’s IPO Anxiety (2010)
@@ -71,9 +70,6 @@
 - A Return to Demand-driven Capital (2000)
 - Like it or Not, Every Startup is Now Global (2000)
 - The Smartest Price War Ever (2001)
-- DVD Glut (2005)
-- Techdirt: The Fake Broadband Price War (2006)
-- BAILOUT what? (2008)
 - Google Redefines Disruption: The “Less Than Free” Business Model (2009)
 - Conversion: The Most Important Internet Metric of All (Revisited) (2013)
 
@@ -92,14 +88,11 @@
 - All Things IP: the Future of Communications in America (2004)
 - Entrepreneurialism and Protectionism Don’t Mix (2004)
 - Texas Sets Key Precedent for Other States in Refusing to Ban Municipal Wireless (2005)
-- Pro-Broadband Muni Issue Goes National (2005)
-- Wifi Nation… (2005)
 - MMOs (MMORPGs) Continue to Rock MMOS (MMORPGS) CONTINUE TO ROCK (2006)
 - Want To Know More About the Future of Internet TV?: Let’s Look to Korea (2009)
 - When It Comes to Television Content, Affiliate Fees Make the World Go ‘Round (2010)
 - You Don’t Have to Tweet to Twitter FREQUENT COMPARISONS TO FACEBOOK LEAVE MANY CONFUSED ABOUT THE TRUE VALUE OF TWITTER. (2011)
 - …Be Like Dave (2015)
-- The Ezra Klein Show: VC Bill Gurley on Transforming Health Care (2017)
 - “Customer First” Healthcare (2017)
 
 ## Part V: Leadership and Governance
@@ -112,18 +105,13 @@
 - A Real Time Free Vs Fee Example: Rosetta Stone vs. LiveMocha (2009)
 - What Is Really Happening to the Venture Capital Industry? (2009)
 - Virtual Goods, Accounting, and the Power of the “Rental” Model (2010)
-- Steve Job’s Remarkable Value Creation (2011)
 - Grubhub and Seamless: Effecting The Elusive Private-Private Merger (2013)
 - Stitch Fix: Reinventing Retail Through Personalization (2013)
 - Disrupting Finance From Above: Wealthfront (2014)
-- Welcoming Jason Kilar, Richard Tom and the Vessel team to the Benchmark family (2014)
-- Meet Benchmark’s New Partner: Eric Vishria (2014)
 - Can you take me Higher? To a place with golden streets” — Creed, Higher (2015)
 - In Defense of the Deck (2015)
 - FINANCING MARKET JUST BECAME DANGEROUS…FOR ALL INVOLVED (2016)
-- Benchmark’s New General Partner Sarah Tavel (2017)
 - Thinking of Home: Dickinson, Texas (2017)
-- Benchmark’s Newest General Partner Chetan Puttagunta (2018)
 
 ## Part VI: Lessons from the Wreckage
 

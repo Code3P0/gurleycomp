@@ -572,12 +572,6 @@ February 8, 2010: American journalists and corporate executives have been slow t
 
 ---
 
-# Steve Job’s Remarkable Value Creation
-
-
-
----
-
 # Grubhub and Seamless: Effecting The Elusive Private-Private Merger
 
 May 20, 2013: Today, Seamless and Grubhub announced the signing of a definitive agreement to
@@ -836,56 +830,6 @@ More importantly, the banks make it very difficult or expensive to move funds ou
 account, effectively stranding your assets in their system. Wealthfront just hit $1B in assets in a
 little over 2.5 years, and there are many reasons to believe that the path to $10B will be easier than
 the path to $1B. A longer track record and larger assets under managmen
-
----
-
-# Welcoming Jason Kilar, Richard Tom and the Vessel team to the Benchmark family
-
-June 24, 2014: Today Benchmark is excited to announce that we will be partners with Jason Kilar
-and Richard Tom on their next exciting project — Vessel. Working with amazing entrepreneurs is
-the number one reason we enjoy venture capital, and rarely do you have the opportunity to work
-with a team that has a track record like these two. While they are not planning to disclose any
-specifics today about the company, you can rest assured that they plan to bring their amazing
-product instincts and cultural leadership that were at the heart of Hulu’s success.
-We are also excited to be
-
----
-
-# Meet Benchmark’s New Partner: Eric Vishria
-
-July 23, 2014: Today Benchmark announced that Eric Vishria has joined us as a General Partner.
-Eric is one of the up-and-coming stars in the technology industry, and we are very excited he is
-becoming our partner. In Benchmark’s team dynamic, character and attitude really matter. Eric’s
-keen intellect, his experience as an entrepreneur and CEO, his depth in infrastructure and enterprise
-software, and his infectious optimism about technology make him an ideal Benchmark partner.
-Eric demonstrated a unique passion for startups and entrepreneurship from an early age. After
-graduating from Stanford in mathematical and computer science when he was just 19, Eric joined
-the newly-formed enterprise software company Loudcloud (which became Opsware in 2002). Eric
-rose quickly, and by the age of 26 he became Opsware’s Vice President of Marketing, remaining
-in that role through the company’s acquisition by HP in 2007. He stayed briefly at HP as a vice
-president.
-In 2008 Eric co-founded his own startup, RockMelt, and ran the company as CEO until its
-acquisition by Yahoo last year. We followed Eric’s adventure as founder and CEO at RockMelt as
-he worked through the roller coaster of a startup. While RockMelt may not have achieved all of
-its intended objectives, it gave us a window into Eric’s true character. We admired his courage,
-relentless optimism and sense of commitment to his mission. He never gave up, ultimately finding
-a home for the company and a fair outcome for his employees and investors. Our friend and mentor
-the great Bill Campbell knew Eric through this lens and was a huge advocate for his candidacy
-here at Benchmark.
-One of Benchmark’s core principles is the power of a fully equal partnership. Every one of our
-general partners, regardless of track record or seniority, has equal ownership in the firm and an
-equal stake in its future. We believe that this promotes teamwork, minimizes politics, and most
-importantly allows us to deliver the power of the entire team to the entrepreneurs we serve. It also
-allows us to recruit the best possible partner candidates, like Eric Vishria, early in their careers and
-allow them to dedicate many years to refining their craft as venture investors and board members.
-We believe that successful early-stage venture investing is just that: a craft. It is a service-oriented
-business, not an industrial process that can be scaled. It requires investors to work diligently on
-the boards of startups, providing advice and counsel and supporting the visions and dreams of
-entrepreneurs. Eric expects to spend the majority of time investing, among other things, in
-enterprise and infrastructure companies. As Eric said to us, he is addicted to the energy of working
-on ambitious ideas with amazing people, and can’t wait to get started.
-Any success that Benchmark has had over the years has been the direct result of partners working
-together as a team to support entreprene
 
 ---
 
@@ -1545,38 +1489,6 @@ environment. Loose capital allows the less qualified to participate in each mark
 
 ---
 
-# Benchmark’s New General Partner Sarah Tavel
-
-May 9, 2017: The partners at Benchmark are excited to announce that Sarah Tavel has joined the
-firm as our newest General Partner. We define ourselves by a love for the craft of early stage
-investing, and Sarah’s career-long desire and commitment to be one of the world’s great venture
-capitalists make her an ideal addition to the Benchmark team.
-About a year ago, we asked our venture partner Scott Belsky who he thought had the greatest
-potential to become one of the best investors of the next decade. He answered quickly and
-definitively: Sarah Tavel. We’ve gotten to know Sarah over the last year. While we only very
-recently revealed our interest in having her join us, our interactions with her over the year amplified
-our instincts. She especially impressed us with the speed and quality of her thinking around
-disruptive markets, her ability to influence others with her ideas, and the depth of the relationships
-she has forged.
-Throughout her career, Sarah has shown a remarkable ability to spot new companies and markets,
-and to develop deep bonds with extraordinary entrepreneurs. Early on, at Bessemer Venture
-Partners, she helped source and pursue companies as varied as Pinterest and GitHub well before
-they were broadly understood. Not only did she identify these phenomena before others, she left
-long-lasting impressions on the founders of both companies. In fact, Ben Silbermann thought so
-highly of Sarah that he recruited her to Pinterest to lead core parts of the product and business after
-the Bessemer investment. The experience of helping scale Pinterest through a period of explosive
-growth is an incredible resource for the founders on whose boards she will serve in the future.
-Most recently, Sarah worked as an investing partner at one of the great venture capital firms,
-Greylock Partners, working with some of the sharpest product minds in the business.
-Beyond her impeccable resume, from our earliest interactions Sarah demonstrated an investor
-mindset that just felt consistent with our own. Our small, focused team approach relies on open
-debate, advocacy, and working together to support the entrepreneurs we serve. Each partner at
-Benchmark needs to bring a unique perspective while simultaneously enhancing the overall
-functioning of the team. It is clear that Sarah will get in front of breakout companies early,
-challenge our thinking on new markets, help us make sharper decisio
-
----
-
 # Thinking of Home: Dickinson, Texas
 
 September 6, 2017: For those of you who have moved away from the town where you grew up,
@@ -1628,40 +1540,6 @@ to the city’s Harvey Relief Fund. There have been many remarkable fundraising 
 of Hurricane Harvey, and we are both moved by the generosity of Les Alexander, JJ Watt, Michael
 Dell and countless others. Amy and I wanted to ensure that this small and vibrant community of
 Dickinson also has the resources it needs to rebuild. If anyone else is interested in helping out, you
-
----
-
-# Benchmark’s Newest General Partner Chetan Puttagunta
-
-July 9, 2018: The partners at Benchmark are pleased to announce Chetan Puttagunta has joined
-the firm as our newest General Partner.
-As early-stage investors, we are acutely aware of the work of other venture capitalists on the boards
-of the companies we serve. Nearly 15 years ago one of Benchmark’s founding partners, Kevin
-Harvey, saw the skills of a young Peter Fenton on a board they shared. Peter’s work so impressed
-Kevin that he recruited Peter to join Benchmark.
-More recently, Peter encountered a once-in-a-generation venture capitalist on the board of Elastic,
-Chetan Puttagunta. In every way, from how Chetan discovered the Elastic opportunity by
-downloading the product and using it, to how he built a deep trusting relationship with the team,
-he demonstrated the qualities that define Benchmark and our aspirations to serve entrepreneurs.
-Chetan’s energy and devotion, his capacity to listen and to provide crisp, well reasoned advice set
-him apart in that elusive way that leads him to be a CEO’s first phone call.
-In addition to Elastic, Chetan, at just 32 years of age, has developed a foundation of successful
-investments and relationships in the software ecosystem. He led the investment in Mulesoft
-(acquired by Salesforce for $6.5B) and MongoDB (NASDAQ: MDB). Those founders and CEOs
-called Chetan “the MVP of our board” and said that, “despite being nearly 20 years younger than
-everyone else, Chetan managed to deliver insights no one else had.” As the Benchmark partners
-got to know Chetan better, it became clear that his infectious curiosity, analytical rigor, and
-boundless energy to serve entrepreneurs fit perfectly with our culture. And Benchmark’s structure
-– now seven equal partners – means Chetan joins with the same authority, responsibility and
-ownership as the current partners. We believe Chetan will invest in many of the best enterprise
-companies of the next decade. And perhaps, he, like Kevin and Peter before him, will spot a future
-Benchmark partner on one of those company boards.
-Our job, as early-stage venture capitalists, does not scale. It is defined by service to entrepreneurs
-and the teams they build, helping them to realize their vision and the potential of their companies.
-Whether it is recruiting a key executive, making a strategic decision, or taking a company public,
-productive and honest dialog between a CEO and a board member can contribute considerably to
-outcomes. While many venture firms have adopted a stage-agnostic approach, or have hired junior
-or role-defin
 
 ---
 
